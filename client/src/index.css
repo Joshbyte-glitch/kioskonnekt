@@ -195,4 +195,13 @@
     @apply bg-background text-foreground;
     font-feature-settings: "rlig" 1, "calt" 1;
   }
+
+  /* Accessibility helper classes toggled by the sidebar */
+  .high-contrast {
+    filter: contrast(1.15) saturate(1.08) brightness(1.02);
+  }
+
+  html.large-text {
+    font-size: 112%; /* increases rem-based sizes for easier reading */
+  }
 }

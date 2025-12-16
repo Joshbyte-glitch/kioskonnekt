@@ -5,6 +5,14 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Sidebar } from "@/components/Sidebar";
+import { useToast } from "@/hooks/use-toast"; // toast helper for user feedback
+
+// Connectivity notes:
+// - Backend controller: SubmitInquiryController listens at POST /api/SubmitInquiry and GET /api/SubmitInquiry
+// - Dev setup: `vite.config.js` proxies /api -> https://localhost:7262 (secure:false) so client can use relative '/api/SubmitInquiry'
+// - If you need to call the backend directly instead of using the proxy, change the fetch URL to
+//   `https://localhost:7262/api/SubmitInquiry` and ensure CORS is enabled on the server.
+// - The client expects the backend to accept JSON matching SubmitInquiryCreateDto: { Name, Email, Concern }
 export const SubmitInquiry = () => {
     const [, setLocation] = useLocation();
     const [showSidebar, setShowSidebar] = useState(false);
@@ -14,6 +22,78 @@ export const SubmitInquiry = () => {
     const [showSuccess, setShowSuccess] = useState(false);
     const [ticketId, setTicketId] = useState("");
     const [loggedInName, setLoggedInName] = useState("");
+    const [isSubmitting, setIsSubmitting] = useState(false);
+    const [backendAvailable, setBackendAvailable] = useState(null); // null = unknown, true/false = known
+    const { toast } = useToast();
+
+    // Connectivity check: ping the backend GET /api/SubmitInquiry (the controller exposes GET)
+    // We intentionally use a short timeout to avoid blocking the UI. This uses the same
+    // relative `/api` path so the Vite dev server proxy (configured in vite.config.js)
+    // forwards requests to your backend at https://localhost:7262 during development.
+    async function checkBackend(timeoutMs = 3000) {
+        try {
+            const controller = new AbortController();
+            const id = setTimeout(() => controller.abort(), timeoutMs);
+            const res = await fetch('/api/SubmitInquiry', { method: 'GET', signal: controller.signal });
+            clearTimeout(id);
+            setBackendAvailable(res.ok);
+            return res.ok;
+        }
+        catch (err) {
+            setBackendAvailable(false);
+            return false;
+        }
+    }
+
+    useEffect(() => {
+        // check backend once on mount
+        checkBackend();
+    }, []);
+
+    // When backend becomes available, attempt to sync any locally queued inquiries
+    async function syncQueuedLocalSubmissions() {
+        try {
+            const existing = JSON.parse(window.localStorage.getItem('kioskTickets') || '[]');
+            const queued = existing.filter((t) => t.source === 'local');
+            if (!queued || queued.length === 0) return;
+
+            let successCount = 0;
+            for (const q of queued) {
+                try {
+                    const res = await fetch('/api/SubmitInquiry', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ Name: q.name, Email: q.email, Concern: q.concern }),
+                    });
+                    if (res.ok) {
+                        const data = await res.json().catch(() => ({}));
+                        // mark as remote and update id if backend returns one
+                        q.source = 'remote';
+                        if (data && data.id) q.id = data.id;
+                        successCount++;
+                    }
+                }
+                catch {
+                    // network issue for this item – keep it queued
+                }
+            }
+            if (successCount > 0) {
+                // overwrite storage with updated items
+                window.localStorage.setItem('kioskTickets', JSON.stringify(existing));
+                toast({ title: 'Queued submissions synced', description: `${successCount} items synced to server.` });
+            }
+        }
+        catch {
+            // ignore errors
+        }
+    }
+
+    useEffect(() => {
+        if (backendAvailable === true) {
+            syncQueuedLocalSubmissions();
+        }
+    }, [backendAvailable]);
+
 
     useEffect(() => {
         try {
@@ -27,32 +107,127 @@ export const SubmitInquiry = () => {
         }
     }, []);
 
-    const handleSubmit = () => {
+    // Submits an inquiry using the backend SubmitInquiry controller.
+    // The ASP.NET controller you provided exposes POST /api/SubmitInquiry and accepts
+    // a JSON body matching SubmitInquiryCreateDto: { Name, Email, Concern }.
+    // Implementation notes:
+    // - We POST to the relative path `/api/SubmitInquiry` so the Vite dev proxy
+    //   forwards requests to your backend at https://localhost:7262 (see `vite.config.js`).
+    // - The client will try the backend and fall back to saving locally if it cannot reach the server.
+    const handleSubmit = async () => {
         const nameToUse = (fullName || loggedInName).trim();
         if (!nameToUse || !concern.trim() || !email.trim()) {
+            toast({ title: "Missing fields", description: "Please fill out name, concern, and email." });
             return;
         }
 
-        const newTicketId = `TKT-${Date.now().toString().slice(-6)}`;
-        setTicketId(newTicketId);
+        setIsSubmitting(true);
+        // Local fallback ticket id (used if backend doesn't return one)
+        const fallbackId = `TKT-${Date.now().toString().slice(-6)}`;
 
-        // Optionally keep a simple history in localStorage to represent "created tickets"
+        // Match the server DTO casing (PascalCase) to be explicit
+        const payload = {
+            Name: nameToUse,
+            Email: email.trim(),
+            Concern: concern.trim(),
+        };
+
+        // If we already detected backend is offline, inform the user and still attempt
+        if (backendAvailable === false) {
+            toast({ title: "Backend offline", description: "Saving locally — will sync when the server is reachable." });
+        }
+
         try {
-            const existing = JSON.parse(window.localStorage.getItem("kioskTickets") || "[]");
-            existing.push({
-                id: newTicketId,
-                name: nameToUse,
-                concern: concern.trim(),
-                email: email.trim(),
-                createdAt: new Date().toISOString(),
+            const res = await fetch('/api/SubmitInquiry', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json',
+                },
+                body: JSON.stringify(payload),
             });
-            window.localStorage.setItem("kioskTickets", JSON.stringify(existing));
-        }
-        catch {
-            // ignore storage errors
-        }
 
-        setShowSuccess(true);
+            if (res.ok) {
+                const data = await res.json().catch(() => ({}));
+                const returnedId = data && (data.id || data.id === 0) ? data.id : fallbackId; // server returns created.Id
+                setTicketId(returnedId);
+
+                // Save a local copy too, so the kiosk has a simple record
+                try {
+                    const existing = JSON.parse(window.localStorage.getItem('kioskTickets') || '[]');
+                    existing.push({
+                        id: returnedId,
+                        name: nameToUse,
+                        concern: payload.Concern,
+                        email: payload.Email,
+                        createdAt: new Date().toISOString(),
+                        source: 'remote',
+                    });
+                    window.localStorage.setItem('kioskTickets', JSON.stringify(existing));
+                }
+                catch {
+                    // ignore storage errors
+                }
+
+                toast({ title: 'Submission successful', description: 'Your inquiry has been sent to the admin.' });
+                setShowSuccess(true);
+                // re-check backend in case it became available
+                checkBackend();
+            }
+            else {
+                // Non-200: fallback to local storage and inform the user
+                const id = fallbackId;
+                setTicketId(id);
+                try {
+                    const existing = JSON.parse(window.localStorage.getItem('kioskTickets') || '[]');
+                    existing.push({
+                        id,
+                        name: nameToUse,
+                        concern: payload.Concern,
+                        email: payload.Email,
+                        createdAt: new Date().toISOString(),
+                        source: 'local',
+                    });
+                    window.localStorage.setItem('kioskTickets', JSON.stringify(existing));
+                }
+                catch {
+                    // ignore storage errors
+                }
+
+                toast({ title: 'Submission queued', description: 'Server error — your inquiry is saved locally and can be synced later.' });
+                setShowSuccess(true);
+                // also re-check backend
+                checkBackend();
+            }
+        }
+        catch (err) {
+            // Network or other fetch error: fallback to local storage
+            const id = fallbackId;
+            setTicketId(id);
+            try {
+                const existing = JSON.parse(window.localStorage.getItem('kioskTickets') || '[]');
+                existing.push({
+                    id,
+                    name: nameToUse,
+                    concern: payload.Concern,
+                    email: payload.Email,
+                    createdAt: new Date().toISOString(),
+                    source: 'local',
+                });
+                window.localStorage.setItem('kioskTickets', JSON.stringify(existing));
+            }
+            catch {
+                // ignore storage errors
+            }
+
+            toast({ title: 'Submission failed', description: 'Network error — saved locally.' });
+            setShowSuccess(true);
+            // refresh availability state
+            setBackendAvailable(false);
+        }
+        finally {
+            setIsSubmitting(false);
+        }
     };
 
     const displayName = (fullName || loggedInName || "").trim() || "Guest";
@@ -77,17 +252,24 @@ export const SubmitInquiry = () => {
       <main className="relative z-10 flex-1 flex flex-col items-center px-5 pt-4 pb-8">
         {/* Title Section */}
         <div className="text-center mb-6">
-          <div className="inline-block mb-3">
-            <span className="px-4 py-1.5 bg-[#ffc300] rounded-full text-[#004aad] text-sm font-semibold tracking-wide">
-              PLV Helpdesk
-            </span>
-          </div>
           <h1 className="font-bold text-white text-3xl tracking-tight drop-shadow-lg">
             Submit Inquiry
           </h1>
-          <p className="text-white/80 text-sm mt-2 max-w-xs mx-auto">
-            We're here to help! Fill out the form below.
-          </p>
+          <div className="mt-2 flex items-center justify-center gap-3">
+            <p className="text-white/80 text-sm max-w-xs">
+              We're here to help! Fill out the form below.
+            </p>
+            <div className="ml-2">
+              {backendAvailable === null ? (
+                <div className="inline-flex items-center gap-2 bg-white/10 text-white text-xs px-3 py-1 rounded-full">Checking…</div>
+              ) : backendAvailable === true ? (
+                <div className="inline-flex items-center gap-2 bg-green-600 text-white text-xs px-3 py-1 rounded-full">Server online</div>
+              ) : (
+                <div className="inline-flex items-center gap-2 bg-red-600 text-white text-xs px-3 py-1 rounded-full">Server offline</div>
+              )}
+            </div>
+            <button onClick={() => checkBackend()} className="text-white/80 underline text-xs">Retry</button>
+          </div>
         </div>
 
         {/* Form Card */}
@@ -102,7 +284,8 @@ export const SubmitInquiry = () => {
                 value={fullName}
                 onChange={(e) => setFullName(e.target.value)}
                 placeholder="Full Name"
-                className="h-14 pl-16 bg-[#f8f9fc] rounded-2xl border-2 border-transparent focus:border-[#004aad] focus:bg-white font-medium text-gray-700 text-base placeholder:text-gray-400 transition-all duration-300"
+                disabled={isSubmitting}
+                className="h-14 pl-16 bg-[#f8f9fc] rounded-2xl border-2 border-transparent focus:border-[#004aad] focus:bg-white font-medium text-gray-700 text-base placeholder:text-gray-400 transition-all duration-300 disabled:opacity-60"
               />
             </div>
 
@@ -115,7 +298,8 @@ export const SubmitInquiry = () => {
                 value={concern}
                 onChange={(e) => setConcern(e.target.value)}
                 placeholder="Your Concern"
-                className="h-14 pl-16 bg-[#f8f9fc] rounded-2xl border-2 border-transparent focus:border-[#004aad] focus:bg-white font-medium text-gray-700 text-base placeholder:text-gray-400 transition-all duration-300"
+                disabled={isSubmitting}
+                className="h-14 pl-16 bg-[#f8f9fc] rounded-2xl border-2 border-transparent focus:border-[#004aad] focus:bg-white font-medium text-gray-700 text-base placeholder:text-gray-400 transition-all duration-300 disabled:opacity-60"
               />
             </div>
 
@@ -129,17 +313,31 @@ export const SubmitInquiry = () => {
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="Email Address"
                 type="email"
-                className="h-14 pl-16 bg-[#f8f9fc] rounded-2xl border-2 border-transparent focus:border-[#004aad] focus:bg-white font-medium text-gray-700 text-base placeholder:text-gray-400 transition-all duration-300"
+                disabled={isSubmitting}
+                className="h-14 pl-16 bg-[#f8f9fc] rounded-2xl border-2 border-transparent focus:border-[#004aad] focus:bg-white font-medium text-gray-700 text-base placeholder:text-gray-400 transition-all duration-300 disabled:opacity-60"
               />
             </div>
 
             {/* Submit Button */}
             <Button
               onClick={handleSubmit}
-              className="h-14 bg-gradient-to-r from-[#004aad] to-[#0066cc] hover:from-[#003d8f] hover:to-[#0055aa] rounded-2xl font-bold text-white text-lg tracking-wide shadow-lg shadow-[#004aad]/30 transition-all duration-300 hover:shadow-xl hover:shadow-[#004aad]/40 hover:-translate-y-0.5 mt-2 flex items-center justify-center gap-2"
+              disabled={isSubmitting}
+              className={`h-14 ${isSubmitting ? 'bg-gray-400/70 cursor-not-allowed' : 'bg-gradient-to-r from-[#004aad] to-[#0066cc] hover:from-[#003d8f] hover:to-[#0055aa]'} rounded-2xl font-bold text-white text-lg tracking-wide shadow-lg shadow-[#004aad]/30 transition-all duration-300 hover:shadow-xl hover:shadow-[#004aad]/40 hover:-translate-y-0.5 mt-2 flex items-center justify-center gap-2`}
             >
-              <Send className="w-5 h-5"/>
-              Submit Inquiry
+              {isSubmitting ? (
+                <>
+                  <svg className="w-5 h-5 animate-spin text-white" viewBox="0 0 24 24" fill="none">
+                    <circle cx="12" cy="12" r="10" stroke="currentColor" strokeOpacity="0.2" strokeWidth="4" />
+                    <path d="M22 12a10 10 0 0 1-10 10" stroke="currentColor" strokeWidth="4" strokeLinecap="round" />
+                  </svg>
+                  Submitting...
+                </>
+              ) : (
+                <>
+                  <Send className="w-5 h-5"/>
+                  Submit Inquiry
+                </>
+              )}
             </Button>
 
             {/* Info Text */}
@@ -156,18 +354,13 @@ export const SubmitInquiry = () => {
 
         {/* PLV Branding */}
         <div className="mt-auto pt-6">
-          <div className="flex items-center gap-2 text-white/70">
-            <div className="w-8 h-8 bg-[#ffc300] rounded-lg flex items-center justify-center">
-              <span className="text-[#004aad] font-bold text-xs">PLV</span>
-            </div>
-            <span className="text-sm font-medium">Pamantasan ng Lungsod ng Valenzuela</span>
-          </div>
+          <img src="/figmaAssets/PLVLogo.png" alt="PLV Logo" className="h-20 mx-auto" />
         </div>
-      </main>
+            </main>
 
-      <Sidebar isOpen={showSidebar} onClose={() => setShowSidebar(false)}/>
+            <Sidebar isOpen={showSidebar} onClose={() => setShowSidebar(false)}/>
 
-      {/* Success Modal */}
+            {/* Success Modal */}
       {showSuccess && (
         <div className="absolute inset-0 z-30 flex items-center justify-center bg-black/30 px-4">
           <div className="w-full max-w-sm bg-white rounded-3xl shadow-2xl p-8 relative flex flex-col items-center text-center">

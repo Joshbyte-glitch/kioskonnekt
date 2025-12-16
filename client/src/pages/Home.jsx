@@ -38,7 +38,7 @@ export const Home = () => {
           {/* Call to Action */}
           <Button
             className="h-12 w-full max-w-xs bg-[#004aad] hover:bg-[#003580] rounded-full font-semibold text-white text-sm tracking-wide shadow-lg border-2 border-[#ffc300]"
-            onClick={() => setLocation("/login")}
+            onClick={() => { console.log('Home: navigate -> /menu'); setLocation("/menu"); }}
           >
             Explore Services
           </Button>

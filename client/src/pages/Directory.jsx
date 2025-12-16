@@ -4,41 +4,64 @@ import { ArrowLeftIcon, Menu as MenuIcon, Building2, Phone, Mail, MapPin } from 
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Sidebar } from "@/components/Sidebar";
+import MapView from "@/pages/MapView"; // Map view modal for static wayfinding maps
+// Directory data structure with support for multiple map images per office
+// To add a new office: add another object to this array and include `mapImages`.
+// Place map images under `/client/public/figmaAssets/maps/` and reference them
+// as `/figmaAssets/maps/<your-file>.png`.
 const directoryData = [
     {
         name: "Registrar's Office",
-        location: "Main Building, Ground Floor",
-        phone: "(02) 8292-0246",
-        email: "registrar@plv.edu.ph"
+        floor: "Student Center Building, 2nd Floor",
+        description: "Handles student records, enrollment verification, and transcript requests.",
+        // Registrar needs 3 slides to show approach, entrance, and counter
+        mapImages: [
+            "/Maps/map-floorplan.png",
+            "/Maps/GF-Registrar.png",
+            "/Maps/SF-Registrar.png",
+        ],
     },
     {
         name: "Student Affairs Office",
-        location: "Main Building, 2nd Floor",
-        phone: "(02) 8292-0247",
-        email: "studentaffairs@plv.edu.ph"
+        floor: "Main Building, 2nd Floor",
+        description: "Student support services and campus activities are coordinated here.",
+        // Student Affairs needs 2 slides
+        mapImages: [
+            "/figmaAssets/maps/student_affairs-1.png",
+            "/figmaAssets/maps/student_affairs-2.png",
+        ],
     },
     {
         name: "Accounting Office",
-        location: "Admin Building, Room 101",
-        phone: "(02) 8292-0248",
-        email: "accounting@plv.edu.ph"
+        floor: "Admin Building, Room 101",
+        description: "Payments, cashiering, and financial inquiries are handled by this office.",
+        // single slide
+        mapImages: ["/figmaAssets/maps/accounting.png"],
     },
     {
-        name: "Library",
-        location: "Library Building, All Floors",
-        phone: "(02) 8292-0249",
-        email: "library@plv.edu.ph"
+        name: "Main Library",
+        floor: "Student Center Building, 5th Floor",
+        description: "Campus library with reading rooms and digital resources.",
+        mapImages: ["/figmaAssets/maps/library.png"],
     },
     {
         name: "Guidance Office",
-        location: "Student Center, Room 201",
-        phone: "(02) 8292-0250",
-        email: "guidance@plv.edu.ph"
+        floor: "Student Center, Room 201",
+        description: "Counseling and student guidance services.",
+        // guidance uses 3 slides
+        mapImages: [
+            "/figmaAssets/maps/guidance-1.png",
+            "/figmaAssets/maps/guidance-2.png",
+            "/figmaAssets/maps/guidance-3.png",
+        ],
     }
 ];
 export const Directory = () => {
+    // Local state-driven navigation: `selectedOffice` holds the office object
+    // for which we show the Map View. This uses React state instead of router.
     const [, setLocation] = useLocation();
     const [showSidebar, setShowSidebar] = useState(false);
+    const [selectedOffice, setSelectedOffice] = useState(null);
     return (<div className="w-full min-h-screen relative flex flex-col overflow-hidden">
       {/* PLV Background */}
       <img className="absolute inset-0 w-full h-full object-cover" alt="PLV Background" src="/figmaAssets/plv-background.png"/>
@@ -59,7 +82,7 @@ export const Directory = () => {
 
       {/* Main Content */}
       <main className="relative z-10 flex-1 flex flex-col px-5 py-6 gap-4">
-        {directoryData.map((item, index) => (<Card key={index} className="bg-white/95 rounded-2xl border-0 shadow-lg overflow-hidden">
+        {directoryData.map((item, index) => (<Card key={index} className="bg-white/95 rounded-2xl border-0 shadow-lg overflow-hidden cursor-pointer hover:scale-[1.01] transition-transform" onClick={() => setSelectedOffice(item)}>
             <CardContent className="p-4">
               <div className="flex items-start gap-4">
                 <div className="w-14 h-14 bg-[#004aad] rounded-2xl flex items-center justify-center flex-shrink-0">
@@ -70,22 +93,19 @@ export const Directory = () => {
                   <div className="flex flex-col gap-1.5 text-sm">
                     <div className="flex items-center gap-2 text-gray-600">
                       <MapPin className="w-4 h-4 text-[#ffc300]"/>
-                      <span>{item.location}</span>
+                      <span>{item.floor}</span>
                     </div>
-                    <div className="flex items-center gap-2 text-gray-600">
-                      <Phone className="w-4 h-4 text-[#ffc300]"/>
-                      <span>{item.phone}</span>
-                    </div>
-                    <div className="flex items-center gap-2 text-gray-600">
-                      <Mail className="w-4 h-4 text-[#ffc300]"/>
-                      <span>{item.email}</span>
-                    </div>
+                    <div className="text-gray-600 text-sm">{item.description}</div>
                   </div>
                 </div>
               </div>
             </CardContent>
           </Card>))}
       </main>
+
+      {/* Map view is driven by local state; this avoids using routes for navigation */}
+      {selectedOffice && <MapView office={selectedOffice} onClose={() => setSelectedOffice(null)} />}
+
 
       <Sidebar isOpen={showSidebar} onClose={() => setShowSidebar(false)}/>
     </div>);

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useLocation } from "wouter";
 import { X, Settings, LogOut, HelpCircle, Building2, Megaphone, Calendar, FileText, Menu as MenuIcon, Home } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Sidebar } from "@/components/Sidebar";
 export const Menu = () => {
     const [, setLocation] = useLocation();
     const [showSidebar, setShowSidebar] = useState(false);
@@ -38,27 +39,27 @@ export const Menu = () => {
         {/* Menu Grid */}
         <div className="flex-1 flex flex-col items-center justify-center px-6 py-8">
           <h1 className="font-bold text-[#004aad] text-3xl mb-8 drop-shadow-lg">
-            Main Menu
+            MAIN MENU
           </h1>
 
           {/* Menu Items Grid */}
-          <div className="grid grid-cols-3 gap-4 max-w-md">
-            {menuItems.slice(0, 3).map((item, index) => (<button key={index} onClick={() => setLocation(item.path)} className="flex flex-col items-center gap-2 group">
-                <div className={`w-20 h-20 ${item.color} rounded-2xl flex items-center justify-center shadow-lg border-2 border-[#ffc300] group-hover:scale-105 transition-transform`}>
-                  <item.icon className="w-10 h-10 text-white"/>
+          <div className="grid grid-cols-3 gap-6 max-w-2xl">
+            {menuItems.slice(0, 3).map((item, index) => (<button key={index} onClick={() => setLocation(item.path)} className="flex flex-col items-center gap-3 group">
+                <div className={`w-36 h-36 ${item.color} rounded-3xl flex items-center justify-center shadow-2xl border-4 border-[#ffc300] group-hover:scale-105 transition-transform transform-gpu` }>
+                  <item.icon className="w-14 h-14 text-white"/>
                 </div>
-                <span className="text-[#004aad] font-semibold text-sm text-center drop-shadow">
+                <span className="text-[#004aad] font-bold text-lg text-center drop-shadow bg-white/30 backdrop-blur-sm px-2 py-1 rounded-lg">
                   {item.label}
                 </span>
               </button>))}
           </div>
 
-          <div className="grid grid-cols-2 gap-4 max-w-md mt-4">
-            {menuItems.slice(3).map((item, index) => (<button key={index} onClick={() => setLocation(item.path)} className="flex flex-col items-center gap-2 group">
-                <div className={`w-20 h-20 ${item.color} rounded-2xl flex items-center justify-center shadow-lg border-2 border-[#ffc300] group-hover:scale-105 transition-transform`}>
-                  <item.icon className="w-10 h-10 text-white"/>
+          <div className="grid grid-cols-2 gap-6 max-w-2xl mt-6">
+            {menuItems.slice(3).map((item, index) => (<button key={index} onClick={() => setLocation(item.path)} className="flex flex-col items-center gap-3 group">
+                <div className={`w-36 h-36 ${item.color} rounded-3xl flex items-center justify-center shadow-2xl border-4 border-[#ffc300] group-hover:scale-105 transition-transform transform-gpu`}>
+                  <item.icon className="w-14 h-14 text-white"/>
                 </div>
-                <span className="text-[#004aad] font-semibold text-sm text-center drop-shadow">
+                <span className="text-[#004aad] font-bold text-lg text-center drop-shadow bg-white/30 backdrop-blur-sm px-2 py-1 rounded-lg">
                   {item.label}
                 </span>
               </button>))}
@@ -66,41 +67,7 @@ export const Menu = () => {
         </div>
 
         {/* Sidebar Overlay */}
-        {showSidebar && (<div className="fixed inset-0 bg-black/30 z-30" onClick={() => setShowSidebar(false)}/>)}
-
-        {/* Sidebar */}
-        <div className={`fixed right-0 top-0 h-full w-64 bg-[#004aad] shadow-2xl z-40 flex flex-col transform transition-transform duration-300 ${showSidebar ? 'translate-x-0' : 'translate-x-full'}`}>
-          <button onClick={() => setShowSidebar(false)} className="absolute top-4 right-4 w-8 h-8 bg-white/20 rounded-full flex items-center justify-center hover:bg-white/30 transition-colors">
-            <X className="w-5 h-5 text-white"/>
-          </button>
-
-          <div className="flex flex-col gap-4 p-6 pt-16">
-            <button
-              onClick={() => {
-                setShowSidebar(false);
-                setLocation("/menu");
-              }}
-              className="flex items-center gap-3 text-white hover:bg-white/10 p-3 rounded-xl transition-colors"
-            >
-              <Home className="w-6 h-6"/>
-              <span className="font-medium">Home</span>
-            </button>
-            <button className="flex items-center gap-3 text-white hover:bg-white/10 p-3 rounded-xl transition-colors">
-              <Settings className="w-6 h-6"/>
-              <span className="font-medium">Accessibility</span>
-            </button>
-            <button
-              onClick={() => {
-                setShowSidebar(false);
-                setLocation("/");
-              }}
-              className="flex items-center gap-3 text-white hover:bg-white/10 p-3 rounded-xl transition-colors"
-            >
-              <LogOut className="w-6 h-6"/>
-              <span className="font-medium">Logout</span>
-            </button>
-          </div>
-        </div>
+        <Sidebar isOpen={showSidebar} onClose={() => setShowSidebar(false)} />
       </main>
     </div>);
 };

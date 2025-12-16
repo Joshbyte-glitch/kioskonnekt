@@ -1,9 +1,11 @@
 import express from "express";
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from "url";
 import { createServer as createViteServer, createLogger } from "vite";
 import viteConfig from "../vite.config.js";
 import { nanoid } from "nanoid";
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const viteLogger = createLogger();
 export function log(message, source = "express") {
     const formattedTime = new Date().toLocaleTimeString("en-US", {
@@ -27,7 +29,13 @@ export async function setupVite(app, server) {
             ...viteLogger,
             error: (msg, options) => {
                 viteLogger.error(msg, options);
-                process.exit(1);
+                if (options && options.error) {
+                    console.error('Vite error:', options.error);
+                }
+                else {
+                    console.error('Vite error:', msg);
+                }
+                // do not exit the process here so we can inspect errors while running
             },
         },
         server: serverOptions,
@@ -37,7 +45,7 @@ export async function setupVite(app, server) {
     app.use("*", async (req, res, next) => {
         const url = req.originalUrl;
         try {
-            const clientTemplate = path.resolve(import.meta.dirname, "..", "client", "index.html");
+            const clientTemplate = path.resolve(__dirname, "..", "client", "index.html");
             // always reload the index.html file from disk incase it changes
             let template = await fs.promises.readFile(clientTemplate, "utf-8");
             template = template.replace(`src="/src/main.jsx"`, `src="/src/main.jsx?v=${nanoid()}"`);
@@ -51,7 +59,7 @@ export async function setupVite(app, server) {
     });
 }
 export function serveStatic(app) {
-    const distPath = path.resolve(import.meta.dirname, "public");
+    const distPath = path.resolve(__dirname, "public");
     if (!fs.existsSync(distPath)) {
         throw new Error(`Could not find the build directory: ${distPath}, make sure to build the client first`);
     }
