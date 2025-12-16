@@ -1,0 +1,1937 @@
+<mcp_external_output>
+
+### Content Block 1 (Text)
+<canvas id="0:1" name="Page 1" x="0" y="0" width="0" height="0">
+  <frame id="30:121" name="Submit Inquiry" x="698" y="8370" width="800" height="1280">
+    <frame id="30:122" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="30:123" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="34:16" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="30:156" name="Submit Inquiry" x="1136" y="284" width="296" height="45" />
+    <frame id="155:42" name="Group 14" x="364" y="65" width="670" height="595">
+      <rounded-rectangle id="30:157" name="Rectangle 6" x="959" y="65" width="670" height="595" />
+      <rounded-rectangle id="30:158" name="Rectangle 7" x="899" y="128" width="545" height="60" />
+      <rounded-rectangle id="30:159" name="Rectangle 8" x="792" y="128" width="545" height="60" />
+      <rounded-rectangle id="30:160" name="Rectangle 9" x="685" y="128" width="545" height="60" />
+      <rounded-rectangle id="30:161" name="yellow" x="578" y="312" width="175" height="67" />
+      <rounded-rectangle id="30:162" name="Rectangle 10" x="578" y="312" width="175" height="67" />
+      <text id="30:163" name="Fullname" x="882" y="150" width="119" height="25" />
+      <text id="30:165" name="Email" x="669" y="150" width="226" height="25" />
+      <text id="30:164" name="Concern" x="776" y="150" width="119" height="25" />
+      <text id="30:166" name="SUBMIT" x="557" y="346" width="107" height="24" />
+      <text id="30:167" name="Once submitted, your request will be processed by the admin." x="482" y="143" width="512" height="55" />
+    </frame>
+    <frame id="188:33" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="249:2" name="Submit Inquiry" x="1540" y="8370" width="800" height="1280">
+    <frame id="249:3" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="249:4" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="249:7" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="249:9" name="Submit Inquiry" x="1136" y="284" width="296" height="45" />
+    <frame id="249:10" name="Group 14" x="364" y="65" width="670" height="595">
+      <rounded-rectangle id="249:11" name="Rectangle 6" x="959" y="65" width="670" height="595" />
+      <rounded-rectangle id="249:12" name="Rectangle 7" x="899" y="128" width="545" height="60" />
+      <rounded-rectangle id="249:13" name="Rectangle 8" x="792" y="128" width="545" height="60" />
+      <rounded-rectangle id="249:14" name="Rectangle 9" x="685" y="128" width="545" height="60" />
+      <rounded-rectangle id="249:15" name="yellow" x="578" y="312" width="175" height="67" />
+      <rounded-rectangle id="249:16" name="Rectangle 10" x="578" y="312" width="175" height="67" />
+      <text id="249:17" name="Fullname" x="882" y="150" width="119" height="25" />
+      <text id="249:19" name="Concern" x="776" y="150" width="119" height="25" />
+      <text id="249:20" name="SUBMIT" x="557" y="346" width="107" height="24" />
+      <text id="249:21" name="Once submitted, your request will be processed by the admin." x="482" y="143" width="512" height="55" />
+    </frame>
+    <frame id="249:22" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <rounded-rectangle id="251:45" name="Rectangle 37" x="1280" y="0" width="800" height="1280" />
+    <frame id="251:42" name="Group 36" x="153" y="65" width="671" height="887">
+      <rounded-rectangle id="249:51" name="Rectangle 6" x="1040" y="65" width="671" height="887" />
+      <frame id="241:1097" name="mdi:email-check" x="979" y="311" width="189" height="189" />
+      <text id="249:55" name="Submission Successful" x="774" y="200" width="411" height="44" />
+      <text id="249:18" name="Thank you! Your inquiry has been received" x="725" y="142" width="526" height="32" />
+      <text id="249:58" name="Please check your e-mail for a response soon" x="685" y="123" width="564" height="26" />
+      <text id="249:64" name="Scan me to track your inquiry status" x="310" y="180" width="450" height="26" />
+      <rounded-rectangle id="249:62" name="frame 1" x="643" y="240" width="330" height="330" />
+      <frame id="251:2" name="maki:cross" x="1015" y="648" width="58" height="58" />
+    </frame>
+  </frame>
+  <frame id="251:5" name="Submit Inquiry" x="11590" y="4676" width="800" height="1280">
+    <frame id="251:6" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="251:7" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="251:10" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="251:12" name="Submit Inquiry" x="1136" y="284" width="296" height="45" />
+    <frame id="251:13" name="Group 14" x="364" y="65" width="670" height="595">
+      <rounded-rectangle id="251:14" name="Rectangle 6" x="959" y="65" width="670" height="595" />
+      <rounded-rectangle id="251:15" name="Rectangle 7" x="899" y="128" width="545" height="60" />
+      <rounded-rectangle id="251:16" name="Rectangle 8" x="792" y="128" width="545" height="60" />
+      <rounded-rectangle id="251:17" name="Rectangle 9" x="685" y="128" width="545" height="60" />
+      <rounded-rectangle id="251:18" name="yellow" x="578" y="312" width="175" height="67" />
+      <rounded-rectangle id="251:19" name="Rectangle 10" x="578" y="312" width="175" height="67" />
+      <text id="251:20" name="Fullname" x="882" y="150" width="119" height="25" />
+      <text id="251:21" name="Concern" x="776" y="150" width="119" height="25" />
+      <text id="251:22" name="SUBMIT" x="557" y="346" width="107" height="24" />
+      <text id="251:23" name="Once submitted, your request will be processed by the admin." x="482" y="143" width="512" height="55" />
+    </frame>
+    <frame id="251:25" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="251:43" name="Group 37" x="20" y="-15" width="800" height="1280">
+      <rounded-rectangle id="251:46" name="Rectangle 38" x="1300" y="-15" width="800" height="1280" />
+      <rounded-rectangle id="251:24" name="Rectangle 6" x="1040" y="65" width="671" height="887" />
+      <frame id="251:27" name="mdi:email-check" x="981" y="311" width="189" height="189" />
+      <text id="251:29" name="Submission Successful" x="776" y="200" width="411" height="44" />
+      <text id="251:30" name="Thank you! Your inquiry has been received" x="727" y="142" width="526" height="32" />
+      <text id="251:31" name="Please check your e-mail for a response soon" x="687" y="123" width="564" height="26" />
+      <text id="251:32" name="Scan me to track your inquiry status" x="312" y="180" width="450" height="26" />
+      <rounded-rectangle id="251:33" name="frame 1" x="645" y="240" width="330" height="330" />
+      <frame id="251:34" name="maki:cross" x="1017" y="648" width="58" height="58" />
+    </frame>
+  </frame>
+  <frame id="181:2" name="Submit Inquiry" x="2472" y="8370" width="800" height="1280">
+    <frame id="181:3" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="181:4" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="181:7" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="181:9" name="Submit Inquiry" x="1136" y="284" width="296" height="45" />
+    <frame id="181:10" name="Group 14" x="364" y="65" width="670" height="595">
+      <rounded-rectangle id="181:11" name="Rectangle 6" x="959" y="65" width="670" height="595" />
+      <rounded-rectangle id="181:12" name="Rectangle 7" x="899" y="128" width="545" height="60" />
+      <rounded-rectangle id="181:13" name="Rectangle 8" x="792" y="128" width="545" height="60" />
+      <rounded-rectangle id="181:14" name="Rectangle 9" x="685" y="128" width="545" height="60" />
+      <rounded-rectangle id="181:15" name="yellow" x="578" y="312" width="175" height="67" />
+      <rounded-rectangle id="181:16" name="Rectangle 10" x="578" y="312" width="175" height="67" />
+      <text id="181:17" name="Fullname" x="882" y="150" width="119" height="25" />
+      <text id="181:18" name="Email" x="669" y="150" width="226" height="25" />
+      <text id="181:19" name="Concern" x="776" y="150" width="119" height="25" />
+      <text id="181:20" name="SUBMIT" x="557" y="346" width="107" height="24" />
+      <text id="181:21" name="Once submitted, your request will be processed by the admin." x="482" y="143" width="512" height="55" />
+    </frame>
+    <frame id="188:30" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="192:39" name="Group 19" x="558" y="468" width="348.0000305175781" height="722">
+      <rounded-rectangle id="192:40" name="Rectangle 28" x="1280" y="468" width="336" height="722" />
+      <vector id="192:41" name="Rectangle 30" x="783" y="468" width="336.9682922363281" height="57.25" />
+      <text id="192:42" name="Main Menu" x="1218" y="550" width="133" height="33" />
+      <text id="192:43" name="FAQs" x="1128.337646484375" y="550.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="192:44" name="Directory" x="1038.947265625" y="550.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="192:45" name="Announcements" x="949.5569458007812" y="550.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="192:46" name="School Calendar" x="860.1666259765625" y="550.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="192:47" name="Submit Inquiry" x="770.7762451171875" y="550.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="192:48" name="Text" x="680.9999389648438" y="545" width="189" height="23" />
+      <rounded-rectangle id="192:49" name="Questions" x="1128.337646484375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="192:50" name="Company" x="1045.97802734375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="192:51" name="Commercial" x="954.578857421875" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="192:52" name="Event Accepted" x="865.1885375976562" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="192:53" name="Submit Resume" x="775.7982177734375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="192:54" name="Accessibility" x="691.4297485351562" y="549.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="192:55" name="Ai Settings Spark Streamline Core Flat - Free" x="697.4560546875" y="501.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="192:59" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="192:63" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="746.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="192:65" name="Log out" x="612" y="550" width="104" height="33" />
+      <frame id="192:66" name="Door Exit Streamline Cyber Duotone - Free" x="617" y="501" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="65:12" name="Announcement" x="2744" y="5957" width="800" height="1280">
+    <frame id="65:13" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="65:14" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="65:17" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="65:20" name="Announcements" x="1124" y="243" width="342" height="67" />
+    <frame id="70:12" name="Group 9" x="781" y="73" width="642" height="264">
+      <rounded-rectangle id="65:21" name="Rectangle 6" x="1045" y="73" width="642" height="264" />
+      <rounded-rectangle id="65:26" name="Rectangle 10" x="1024" y="110" width="121" height="121" />
+      <text id="70:15" name="DEC" x="1010" y="131" width="80" height="41" />
+      <text id="70:17" name="2-4" x="965" y="135" width="67" height="40" />
+      <text id="70:19" name="Foundation Day" x="1024" y="271" width="342" height="67" />
+    </frame>
+    <frame id="70:21" name="Group 10" x="505" y="73" width="642" height="264">
+      <rounded-rectangle id="70:22" name="Rectangle 6" x="769" y="73" width="642" height="264" />
+      <rounded-rectangle id="70:23" name="Rectangle 10" x="748" y="110" width="121" height="121" />
+      <text id="70:24" name="DEC" x="734" y="131" width="80" height="41" />
+      <text id="70:25" name="8" x="687" y="154" width="34" height="42" />
+      <text id="70:26" name="No Classes" x="748" y="271" width="231" height="55" />
+      <text id="70:28" name="Holiday" x="705" y="271" width="231" height="55" />
+      <text id="70:30" name="Campus is closed" x="614" y="202" width="423" height="54" />
+    </frame>
+    <frame id="70:32" name="Group 11" x="229" y="73" width="642" height="264">
+      <rounded-rectangle id="70:33" name="Rectangle 6" x="493" y="73" width="642" height="264" />
+      <rounded-rectangle id="70:34" name="Rectangle 10" x="472" y="110" width="121" height="121" />
+      <text id="70:35" name="DEC" x="458" y="131" width="80" height="41" />
+      <text id="70:36" name="15" x="411" y="154" width="48" height="45" />
+      <text id="70:37" name="Final Examination" x="462" y="269" width="393" height="55" />
+    </frame>
+    <frame id="188:12" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="181:307" name="Announcement" x="3584" y="5957" width="800" height="1280">
+    <frame id="181:308" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="181:309" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="181:314" name="Announcements" x="1124" y="243" width="342" height="67" />
+    <frame id="181:315" name="Group 9" x="781" y="73" width="642" height="264">
+      <rounded-rectangle id="181:316" name="Rectangle 6" x="1045" y="73" width="642" height="264" />
+      <rounded-rectangle id="181:317" name="Rectangle 10" x="1024" y="110" width="121" height="121" />
+      <text id="181:318" name="DEC" x="1010" y="131" width="80" height="41" />
+      <text id="181:319" name="2-4" x="965" y="135" width="67" height="40" />
+      <text id="181:320" name="Foundation Day" x="1024" y="271" width="342" height="67" />
+    </frame>
+    <frame id="181:321" name="Group 10" x="505" y="73" width="642" height="264">
+      <rounded-rectangle id="181:322" name="Rectangle 6" x="769" y="73" width="642" height="264" />
+      <rounded-rectangle id="181:323" name="Rectangle 10" x="748" y="110" width="121" height="121" />
+      <text id="181:324" name="DEC" x="734" y="131" width="80" height="41" />
+      <text id="181:325" name="8" x="687" y="154" width="34" height="42" />
+      <text id="181:326" name="No Classes" x="748" y="271" width="231" height="55" />
+      <text id="181:327" name="Holiday" x="705" y="271" width="231" height="55" />
+      <text id="181:328" name="Campus is closed" x="614" y="202" width="424" height="65" />
+    </frame>
+    <frame id="181:329" name="Group 11" x="229" y="73" width="642" height="264">
+      <rounded-rectangle id="181:330" name="Rectangle 6" x="493" y="73" width="642" height="264" />
+      <rounded-rectangle id="181:331" name="Rectangle 10" x="472" y="110" width="121" height="121" />
+      <text id="181:332" name="DEC" x="458" y="131" width="80" height="41" />
+      <text id="181:333" name="15" x="411" y="154" width="48" height="45" />
+      <text id="181:334" name="Final Examination" x="462" y="269" width="393" height="55" />
+    </frame>
+    <frame id="188:15" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="192:2" name="Group 19" x="558" y="468" width="348.0000305175781" height="722">
+      <rounded-rectangle id="192:3" name="Rectangle 28" x="1280" y="468" width="336" height="722" />
+      <vector id="192:4" name="Rectangle 30" x="963" y="468" width="336.9682922363281" height="57.25" />
+      <text id="192:5" name="Main Menu" x="1218" y="550" width="133" height="33" />
+      <text id="192:6" name="FAQs" x="1128.337646484375" y="550.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="192:7" name="Directory" x="1038.947265625" y="550.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="192:8" name="Announcements" x="949.5569458007812" y="550.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="192:9" name="School Calendar" x="860.1666259765625" y="550.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="192:10" name="Submit Inquiry" x="770.7762451171875" y="550.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="192:11" name="Text" x="680.9999389648438" y="545" width="189" height="23" />
+      <rounded-rectangle id="192:12" name="Questions" x="1128.337646484375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="192:13" name="Company" x="1045.97802734375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="192:14" name="Commercial" x="954.578857421875" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="192:15" name="Event Accepted" x="865.1885375976562" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="192:16" name="Submit Resume" x="775.7982177734375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="192:17" name="Accessibility" x="691.4297485351562" y="549.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="192:18" name="Ai Settings Spark Streamline Core Flat - Free" x="697.4560546875" y="501.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="192:22" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="192:26" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="746.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="192:28" name="Log out" x="612" y="550" width="104" height="33" />
+      <frame id="192:29" name="Door Exit Streamline Cyber Duotone - Free" x="617" y="501" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="73:41" name="School Calendar" x="-2224" y="8370" width="800" height="1280">
+    <frame id="73:42" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="73:43" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="73:46" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <frame id="153:2" name="Group 12" x="286" y="130" width="522" height="102">
+      <rounded-rectangle id="150:16" name="Rectangle 11" x="405.000244140625" y="62" width="708" height="149" hidden="true" />
+      <frame id="150:45" name="Entertainment Events Hobbies Ticket Streamline Pixel - Free" x="388.000244140625" y="130" width="44" height="44" />
+      <text id="150:76" name="Foundation Day" x="375.000244140625" y="180" width="153" height="26" />
+      <text id="150:77" name="Final Exam" x="316.000244140625" y="180" width="153" height="26" />
+      <text id="150:92" name="25" x="322.000244140625" y="432" width="48" height="36" />
+      <frame id="150:83" name="Flag Streamline Heroicons Outline" x="381.000244140625" y="432" width="38" height="40">
+        <frame id="150:84" name="Flag Streamline Font Awesome Solid" x="5" y="6" width="27" height="28" />
+      </frame>
+      <text id="150:91" name="End of Semester" x="372.000244140625" y="491" width="161" height="24" />
+      <text id="150:94" name="Holiday" x="316.000244140625" y="489" width="74" height="24" />
+    </frame>
+    <frame id="73:50" name="Group 9" x="291.0001525878906" y="61" width="702" height="758">
+      <rounded-rectangle id="73:51" name="Rectangle 6" x="1045.0001525878906" y="62" width="700" height="572.0069580078125" />
+      <rounded-rectangle id="73:52" name="Rectangle 10" x="1049.0003967285156" y="62" width="700" height="108" />
+      <rounded-rectangle id="145:4" name="Rectangle 21" x="963.1490783691406" y="62" width="700" height="43.923744201660156" />
+      <text id="145:37" name="Thur" x="955.0002136230469" y="485" width="60" height="28" />
+      <text id="145:39" name="Fri" x="955.0002136230469" y="590" width="51" height="28" />
+      <text id="73:54" name="December" x="1028.0370788574219" y="314.975341796875" width="194.04934692382812" height="42.92547607421875" />
+      <line id="145:7" name="Line 2" x="919.2253112792969" y="154.452880859375" width="3.547119318791374" height="446.2250998750751" />
+      <vector id="145:9" name="Line 3" x="918.0000305175781" y="253" width="4.063861712626931" height="445.22714646206987" />
+      <line id="145:11" name="Line 4" x="918.9999694824219" y="354" width="3.9999998543466972" height="445.9997555048685" />
+      <vector id="145:13" name="Line 5" x="917.9999084472656" y="456" width="4.063861712626931" height="445.22714646206987" />
+      <line id="145:15" name="Line 6" x="918.9997863769531" y="559" width="4.06386170595556" height="446.2271540770598" />
+      <line id="145:17" name="Line 7" x="918.9997863769531" y="661" width="4.06386170595556" height="446.2271540770598" />
+      <line id="145:21" name="Line 8" x="831.9997863769531" y="62" width="701.0000274065096" height="2.00000007912422" />
+      <line id="145:22" name="Line 9" x="745.0002136230469" y="61" width="701.0000274065096" height="2.00000007912422" />
+      <line id="145:24" name="Line 10" x="658.0003356933594" y="62" width="701.0000274065096" height="2.00000007912422" />
+      <line id="145:28" name="Line 12" x="563.0003356933594" y="61" width="701.0000274065096" height="2.00000007912422" />
+      <line id="145:26" name="Line 11" x="745.0002136230469" y="61" width="701.0000274065096" height="2.00000007912422" />
+      <text id="145:30" name="Sun" x="955.0002136230469" y="81" width="51" height="28" />
+      <text id="145:31" name="Mon" x="955.0002136230469" y="180" width="58" height="28" />
+      <text id="145:41" name="Sat" x="955.0002136230469" y="693" width="51" height="28" />
+      <text id="145:33" name="Tue" x="955.0002136230469" y="283" width="51" height="28" />
+      <text id="145:35" name="Wed" x="955.0002136230469" y="379" width="57" height="28" />
+      <text id="145:52" name="6" x="917.9997863769531" y="692" width="17" height="41" />
+      <text id="145:43" name="1" x="918.0002136230469" y="192" width="22" height="41" />
+      <text id="145:54" name="7" x="832.0002136230469" y="97" width="22" height="41" />
+      <text id="145:56" name="8" x="833.0002136230469" y="192" width="22" height="41" />
+      <text id="145:58" name="10" x="836.0001525878906" y="381" width="60" height="46" />
+      <text id="147:2" name="11" x="837.0001525878906" y="491" width="54" height="49" />
+      <text id="147:4" name="12" x="838.0001525878906" y="586" width="61" height="51" />
+      <text id="147:6" name="13" x="838.0001525878906" y="682" width="59" height="54" />
+      <text id="147:8" name="20" x="750.9997863769531" y="677" width="64" height="47" />
+      <text id="147:10" name="19" x="749.0002136230469" y="586" width="56" height="49" />
+      <text id="147:12" name="18" x="749.0002136230469" y="489" width="58" height="53" />
+      <text id="147:14" name="17" x="750.0002136230469" y="384" width="56" height="49" />
+      <text id="147:16" name="16" x="747.0002136230469" y="281" width="64" height="52" />
+      <text id="147:18" name="15" x="746.0002136230469" y="184" width="59" height="54" />
+      <text id="147:20" name="14" x="750.0002136230469" y="89" width="59" height="47" />
+      <text id="147:22" name="21" x="659.9998474121094" y="86" width="62" height="56" />
+      <text id="147:36" name="28" x="568.0002746582031" y="78" width="76" height="51" />
+      <text id="147:24" name="22" x="659.9998474121094" y="175" width="78" height="61" />
+      <text id="147:38" name="29" x="568.0002746582031" y="174" width="79" height="54" />
+      <text id="147:26" name="24" x="661.9998474121094" y="376" width="75" height="58" />
+      <text id="147:42" name="31" x="566.0002746582031" y="386" width="65" height="55" />
+      <text id="147:30" name="25" x="661.9998474121094" y="479" width="82" height="56" />
+      <text id="147:32" name="27" x="664.9998474121094" y="679" width="72" height="59" />
+      <text id="147:34" name="26" x="661.9998474121094" y="580" width="68" height="56" />
+      <text id="147:28" name="23" x="659.9998474121094" y="274" width="77" height="58" />
+      <text id="147:40" name="30" x="566.0002746582031" y="277" width="72" height="53" />
+      <text id="145:60" name="9" x="836.0001525878906" y="291" width="22" height="41" />
+      <text id="145:44" name="2" x="918.0002136230469" y="291" width="22" height="41" />
+      <text id="145:46" name="3" x="918.0002136230469" y="397" width="22" height="41" />
+      <text id="145:50" name="5" x="918.0002136230469" y="595" width="22" height="41" />
+      <text id="145:48" name="4" x="918.0002136230469" y="496" width="22" height="41" />
+      <frame id="149:71" name="Entertainment Events Hobbies Ticket Streamline Pixel - Free" x="870.0001525878906" y="288" width="32" height="32" />
+      <frame id="149:98" name="Entertainment Events Hobbies Ticket Streamline Pixel - Free" x="870.0001525878906" y="400" width="32" height="32" />
+      <frame id="149:126" name="Entertainment Events Hobbies Ticket Streamline Pixel - Free" x="871.0001525878906" y="505" width="32" height="32" />
+      <frame id="149:154" name="Button Next Streamline Core Solid - Free" x="1019.0001525878906" y="693" width="31" height="28" />
+      <vector id="149:157" name="Union" x="1019.0001525878906" y="134.44620513916016" width="30.44620704650879" height="25.999954223632812" />
+      <frame id="150:3" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="294" width="30" height="28">
+        <rounded-rectangle id="150:2" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="294" width="30" height="28" />
+      </frame>
+      <frame id="150:4" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="399" width="30" height="28">
+        <rounded-rectangle id="150:5" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="399" width="30" height="28" />
+      </frame>
+      <frame id="150:7" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="499" width="30" height="28">
+        <rounded-rectangle id="150:8" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="499" width="30" height="28" />
+      </frame>
+      <frame id="150:10" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="606" width="30" height="28">
+        <rounded-rectangle id="150:11" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="606" width="30" height="28" />
+      </frame>
+      <frame id="150:13" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="695" width="30" height="28">
+        <rounded-rectangle id="150:14" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="695" width="30" height="28" />
+      </frame>
+      <frame id="150:73" name="Hand Held Tablet Writing Streamline Core Line" x="318.0001525878906" y="138" width="24" height="27">
+        <rounded-rectangle id="150:74" name="Hand Held Tablet Writing Streamline Core Line" x="318.0001525878906" y="138" width="24" height="27" />
+      </frame>
+      <frame id="150:79" name="Flag Streamline Heroicons Outline" x="701.0001525878906" y="599" width="38" height="39">
+        <frame id="150:81" name="Flag Streamline Font Awesome Solid" x="5" y="6" width="27" height="28" />
+      </frame>
+    </frame>
+    <text id="150:95" name="School Calendar" x="1136" y="254" width="350" height="62" />
+    <frame id="188:36" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="181:65" name="School Calendar" x="-1363" y="8370" width="800" height="1280">
+    <frame id="181:66" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="181:67" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="181:72" name="Group 12" x="286" y="130" width="522" height="102">
+      <rounded-rectangle id="181:73" name="Rectangle 11" x="405.000244140625" y="62" width="708" height="149" hidden="true" />
+      <frame id="181:74" name="Entertainment Events Hobbies Ticket Streamline Pixel - Free" x="388.000244140625" y="130" width="44" height="44" />
+      <text id="181:101" name="Foundation Day" x="375.000244140625" y="180" width="153" height="26" />
+      <text id="181:102" name="Final Exam" x="316.000244140625" y="180" width="153" height="26" />
+      <text id="181:103" name="25" x="322.000244140625" y="432" width="48" height="36" />
+      <frame id="181:104" name="Flag Streamline Heroicons Outline" x="381.000244140625" y="432" width="38" height="40">
+        <frame id="181:105" name="Flag Streamline Font Awesome Solid" x="5" y="6" width="27" height="28" />
+      </frame>
+      <text id="181:107" name="End of Semester" x="372.000244140625" y="491" width="161" height="24" />
+      <text id="181:108" name="Holiday" x="316.000244140625" y="489" width="74" height="24" />
+    </frame>
+    <frame id="181:114" name="Group 9" x="291.0001525878906" y="61" width="702" height="758.000244140625">
+      <rounded-rectangle id="181:115" name="Rectangle 6" x="1045.0001525878906" y="62" width="700" height="572.0069580078125" />
+      <rounded-rectangle id="181:116" name="Rectangle 10" x="1049.0003967285156" y="62" width="700" height="108" />
+      <rounded-rectangle id="181:117" name="Rectangle 21" x="963.1490783691406" y="62" width="700" height="43.923744201660156" />
+      <text id="181:118" name="Thur" x="955.0002136230469" y="485" width="60" height="28" />
+      <text id="181:119" name="Fri" x="955.0002136230469" y="590" width="51" height="28" />
+      <text id="181:120" name="December" x="1028.0370788574219" y="314.975341796875" width="194.04934692382812" height="42.92547607421875" />
+      <line id="181:121" name="Line 2" x="919.2253112792969" y="154.452880859375" width="3.547119318791374" height="446.2250998750751" />
+      <vector id="181:122" name="Line 3" x="918.0000305175781" y="253" width="4.063861712626931" height="445.22714646206987" />
+      <line id="181:123" name="Line 4" x="918.9999694824219" y="354" width="3.999999854346811" height="445.9997555048685" />
+      <vector id="181:124" name="Line 5" x="917.9999084472656" y="456" width="4.063861712626931" height="445.22714646206987" />
+      <line id="181:125" name="Line 6" x="918.9997863769531" y="559" width="4.06386170595556" height="446.2271540770598" />
+      <line id="181:126" name="Line 7" x="918.9997863769531" y="661" width="4.06386170595556" height="446.2271540770598" />
+      <line id="181:127" name="Line 8" x="831.9997863769531" y="62" width="701.0000274065096" height="2.00000007912422" />
+      <line id="181:128" name="Line 9" x="745.0002136230469" y="61" width="701.0000274065096" height="2.00000007912422" />
+      <line id="181:129" name="Line 10" x="658.0003356933594" y="62" width="701.0000274065096" height="2.00000007912422" />
+      <line id="181:130" name="Line 12" x="563.0003356933594" y="61" width="701.0000274065096" height="2.00000007912422" />
+      <line id="181:131" name="Line 11" x="745.0002136230469" y="61" width="701.0000274065096" height="2.00000007912422" />
+      <text id="181:132" name="Sun" x="955.0002136230469" y="81" width="51" height="28" />
+      <text id="181:133" name="Mon" x="955.0002136230469" y="180" width="58" height="28" />
+      <text id="181:134" name="Sat" x="955.0002136230469" y="693" width="51" height="28" />
+      <text id="181:135" name="Tue" x="955.0002136230469" y="283" width="51" height="28" />
+      <text id="181:136" name="Wed" x="955.0002136230469" y="379" width="57" height="28" />
+      <text id="181:137" name="6" x="917.9997863769531" y="692" width="17" height="41" />
+      <text id="181:138" name="1" x="918.0002136230469" y="192" width="22" height="41" />
+      <text id="181:139" name="7" x="832.0002136230469" y="97" width="22" height="41" />
+      <text id="181:140" name="8" x="833.0002136230469" y="192" width="22" height="41" />
+      <text id="181:141" name="10" x="836.0001525878906" y="381" width="60" height="46" />
+      <text id="181:142" name="11" x="837.0001525878906" y="491" width="54" height="49" />
+      <text id="181:143" name="12" x="838.0001525878906" y="586" width="61" height="51" />
+      <text id="181:144" name="13" x="838.0001525878906" y="682" width="59" height="54" />
+      <text id="181:145" name="20" x="750.9997863769531" y="677" width="64" height="47" />
+      <text id="181:146" name="19" x="749.0002136230469" y="586" width="56" height="49" />
+      <text id="181:147" name="18" x="749.0002136230469" y="489" width="58" height="53" />
+      <text id="181:148" name="17" x="750.0002136230469" y="384" width="56" height="49" />
+      <text id="181:149" name="16" x="747.0002136230469" y="281" width="64" height="52" />
+      <text id="181:150" name="15" x="746.0002136230469" y="184" width="59" height="54" />
+      <text id="181:151" name="14" x="750.0002136230469" y="89" width="59" height="47" />
+      <text id="181:152" name="21" x="659.9998474121094" y="86" width="62" height="56" />
+      <text id="181:153" name="28" x="568.0002746582031" y="78" width="76" height="51" />
+      <text id="181:154" name="22" x="659.9998474121094" y="175" width="78" height="61" />
+      <text id="181:155" name="29" x="568.0002746582031" y="174" width="79" height="54" />
+      <text id="181:156" name="24" x="661.9998474121094" y="376" width="75" height="58" />
+      <text id="181:157" name="31" x="566.0002746582031" y="386" width="65" height="55" />
+      <text id="181:158" name="25" x="661.9998474121094" y="479" width="82" height="56" />
+      <text id="181:159" name="27" x="664.9998474121094" y="679" width="72" height="59" />
+      <text id="181:160" name="26" x="661.9998474121094" y="580" width="68" height="56" />
+      <text id="181:161" name="23" x="659.9998474121094" y="274" width="77" height="58" />
+      <text id="181:162" name="30" x="566.0002746582031" y="277" width="72" height="53" />
+      <text id="181:163" name="9" x="836.0001525878906" y="291" width="22" height="41" />
+      <text id="181:164" name="2" x="918.0002136230469" y="291" width="22" height="41" />
+      <text id="181:165" name="3" x="918.0002136230469" y="397" width="22" height="41" />
+      <text id="181:166" name="5" x="918.0002136230469" y="595" width="22" height="41" />
+      <text id="181:167" name="4" x="918.0002136230469" y="496" width="22" height="41" />
+      <frame id="181:168" name="Entertainment Events Hobbies Ticket Streamline Pixel - Free" x="870.0001525878906" y="288" width="32" height="32" />
+      <frame id="181:195" name="Entertainment Events Hobbies Ticket Streamline Pixel - Free" x="870.0001525878906" y="400" width="32" height="32" />
+      <frame id="181:222" name="Entertainment Events Hobbies Ticket Streamline Pixel - Free" x="871.0001525878906" y="505" width="32" height="32" />
+      <frame id="181:249" name="Button Next Streamline Core Solid - Free" x="1019.0001525878906" y="693" width="31" height="28" />
+      <vector id="181:252" name="Union" x="1019.0001525878906" y="134.44620513916016" width="30.44620704650879" height="25.999954223632812" />
+      <frame id="181:253" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="294" width="30" height="28">
+        <rounded-rectangle id="181:254" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="294" width="30" height="28" />
+      </frame>
+      <frame id="181:255" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="399" width="30" height="28">
+        <rounded-rectangle id="181:256" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="399" width="30" height="28" />
+      </frame>
+      <frame id="181:257" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="499" width="30" height="28">
+        <rounded-rectangle id="181:258" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="499" width="30" height="28" />
+      </frame>
+      <frame id="181:259" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="606" width="30" height="28">
+        <rounded-rectangle id="181:260" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="606" width="30" height="28" />
+      </frame>
+      <frame id="181:261" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="695" width="30" height="28">
+        <rounded-rectangle id="181:262" name="Hand Held Tablet Writing Streamline Core Line" x="782.0001525878906" y="695" width="30" height="28" />
+      </frame>
+      <frame id="181:263" name="Hand Held Tablet Writing Streamline Core Line" x="318.0001525878906" y="138" width="24" height="27">
+        <rounded-rectangle id="181:264" name="Hand Held Tablet Writing Streamline Core Line" x="318.0001525878906" y="138" width="24" height="27" />
+      </frame>
+      <frame id="181:265" name="Flag Streamline Heroicons Outline" x="701.0001525878906" y="599" width="38" height="39">
+        <frame id="181:266" name="Flag Streamline Font Awesome Solid" x="5" y="6" width="27" height="28" />
+      </frame>
+    </frame>
+    <text id="181:268" name="School Calendar" x="1136" y="254" width="350" height="62" />
+    <frame id="188:39" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="189:694" name="Group 20" x="557" y="464" width="348.0000305175781" height="722">
+      <rounded-rectangle id="189:695" name="Rectangle 28" x="1279" y="464" width="336" height="722" />
+      <vector id="189:696" name="Rectangle 30" x="871.21923828125" y="464" width="336.9682922363281" height="57.25" />
+      <text id="189:697" name="Main Menu" x="1217" y="546" width="133" height="33" />
+      <text id="189:698" name="FAQs" x="1127.337646484375" y="546.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="189:699" name="Directory" x="1037.947265625" y="546.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="189:700" name="Announcements" x="948.5569458007812" y="546.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="189:701" name="School Calendar" x="859.1666259765625" y="546.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="189:702" name="Submit Inquiry" x="769.7762451171875" y="546.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="189:703" name="Text" x="679.9999389648438" y="541" width="189" height="23" />
+      <rounded-rectangle id="189:704" name="Questions" x="1127.337646484375" y="490.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:705" name="Company" x="1044.97802734375" y="490.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:706" name="Commercial" x="953.578857421875" y="490.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:707" name="Event Accepted" x="864.1885375976562" y="490.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:708" name="Submit Resume" x="774.7982177734375" y="490.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:709" name="Accessibility" x="690.4297485351562" y="545.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="189:710" name="Ai Settings Spark Streamline Core Flat - Free" x="696.4560546875" y="497.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:714" name="Home 2 Streamline Flex Flat - Free" x="1223.7587890625" y="490.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:718" name="X Circle Streamline Heroicons Outline" x="1271.96923828125" y="742.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:720" name="Log out" x="611" y="546" width="104" height="33" />
+      <frame id="189:721" name="Door Exit Streamline Cyber Duotone - Free" x="616" y="497" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="43:41" name="FAQs" x="-4399" y="5958" width="800" height="1280">
+    <frame id="43:42" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="43:43" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="43:46" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="43:49" name="FAQs" x="1117" y="339" width="107" height="47" />
+    <frame id="53:12" name="Group 8" x="899" y="128" width="545" height="60">
+      <rounded-rectangle id="43:51" name="Rectangle 7" x="959" y="128" width="545" height="60" />
+      <rounded-rectangle id="43:67" name="Rectangle 12" x="959" y="608" width="34" height="60" />
+      <rounded-rectangle id="43:65" name="Rectangle 10" x="959" y="608" width="65" height="60" />
+      <frame id="43:63" name="search" x="944" y="627" width="30.749950408935547" height="29" />
+      <text id="53:13" name="Search" x="944" y="154" width="119" height="25" />
+    </frame>
+    <frame id="49:22" name="Group 3" x="771" y="128" width="550" height="79">
+      <rounded-rectangle id="49:20" name="Rectangle 13" x="850" y="128" width="550" height="79" />
+      <rounded-rectangle id="49:31" name="Rectangle 14" x="850" y="128" width="550" height="79" />
+      <ellipse id="43:82" name="Ellipse 1" x="845" y="145" width="69" height="69" />
+      <rounded-rectangle id="43:80" name="Company" x="828" y="161" width="39.5" height="36" />
+      <text id="49:19" name="Registrar &amp; Documents" x="824" y="229" width="274" height="28" />
+      <frame id="49:16" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="839" y="613" width="54" height="62" />
+    </frame>
+    <frame id="49:53" name="Group 4" x="643" y="130" width="550" height="79">
+      <rounded-rectangle id="49:54" name="Rectangle 13" x="722" y="130" width="550" height="79" />
+      <rounded-rectangle id="49:55" name="Rectangle 14" x="722" y="130" width="550" height="79" />
+      <ellipse id="49:56" name="Ellipse 1" x="717" y="147" width="69" height="69" />
+      <rounded-rectangle id="49:57" name="Company" x="700" y="163" width="39.5" height="36" />
+      <text id="49:58" name="Financial &amp; Scholarships" x="696" y="231" width="327" height="28" />
+      <frame id="49:59" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="711" y="615" width="54" height="62" />
+    </frame>
+    <frame id="49:63" name="Group 5" x="515" y="128" width="550" height="79">
+      <rounded-rectangle id="49:64" name="Rectangle 13" x="594" y="128" width="550" height="79" />
+      <rounded-rectangle id="49:65" name="Rectangle 14" x="594" y="128" width="550" height="79" />
+      <ellipse id="49:66" name="Ellipse 1" x="589" y="145" width="69" height="69" />
+      <rounded-rectangle id="49:67" name="Company" x="572" y="161" width="39.5" height="36" />
+      <text id="49:68" name="Admission &amp; Enrollment" x="568" y="229" width="327" height="32" />
+      <frame id="49:69" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="583" y="613" width="54" height="62" />
+    </frame>
+    <frame id="49:73" name="Group 6" x="387" y="128" width="550" height="79">
+      <rounded-rectangle id="49:74" name="Rectangle 13" x="466" y="128" width="550" height="79" />
+      <rounded-rectangle id="49:75" name="Rectangle 14" x="466" y="128" width="550" height="79" />
+      <ellipse id="49:76" name="Ellipse 1" x="461" y="145" width="69" height="69" />
+      <rounded-rectangle id="49:77" name="Company" x="444" y="161" width="39.5" height="36" />
+      <text id="49:78" name="Academic Policies" x="440" y="229" width="274" height="28" />
+      <frame id="49:79" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="455" y="613" width="54" height="62" />
+    </frame>
+    <frame id="52:83" name="Group 7" x="259" y="128" width="550" height="79">
+      <rounded-rectangle id="52:84" name="Rectangle 13" x="338" y="128" width="550" height="79" />
+      <rounded-rectangle id="52:85" name="Rectangle 14" x="338" y="128" width="550" height="79" />
+      <ellipse id="52:86" name="Ellipse 1" x="333" y="145" width="69" height="69" />
+      <rounded-rectangle id="52:87" name="Company" x="316" y="161" width="39.5" height="36" />
+      <text id="52:88" name="Daily Logistics &amp; Campus Rules" x="312" y="229" width="379" height="32" />
+      <frame id="52:89" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="327" y="613" width="54" height="62" />
+    </frame>
+    <frame id="188:6" name="material-symbols:arrow-back-ios-rounded" x="1240" y="26" width="81" height="81" />
+  </frame>
+  <frame id="241:712" name="FAQs" x="11081" y="6341" width="800" height="1280">
+    <frame id="241:713" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:714" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="241:719" name="FAQs" x="1117" y="339" width="107" height="47" />
+    <frame id="241:720" name="Group 8" x="899" y="128" width="545" height="60">
+      <rounded-rectangle id="241:721" name="Rectangle 7" x="959" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:722" name="Rectangle 12" x="959" y="608" width="34" height="60" />
+      <rounded-rectangle id="241:723" name="Rectangle 10" x="959" y="608" width="65" height="60" />
+      <frame id="241:724" name="search" x="944" y="627" width="30.749950408935547" height="29" />
+      <text id="241:726" name="Search" x="944" y="154" width="119" height="25" />
+    </frame>
+    <frame id="241:727" name="Group 3" x="771" y="128" width="550" height="79">
+      <rounded-rectangle id="241:728" name="Rectangle 13" x="850" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:729" name="Rectangle 14" x="850" y="128" width="550" height="79" />
+      <ellipse id="241:730" name="Ellipse 1" x="845" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:731" name="Company" x="828" y="161" width="39.5" height="36" />
+      <text id="241:732" name="Registrar &amp; Documents" x="824" y="229" width="274" height="28" />
+      <frame id="241:733" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="839" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:736" name="Group 4" x="643" y="130" width="550" height="79">
+      <rounded-rectangle id="241:737" name="Rectangle 13" x="722" y="130" width="550" height="79" />
+      <rounded-rectangle id="241:738" name="Rectangle 14" x="722" y="130" width="550" height="79" />
+      <ellipse id="241:739" name="Ellipse 1" x="717" y="147" width="69" height="69" />
+      <rounded-rectangle id="241:740" name="Company" x="700" y="163" width="39.5" height="36" />
+      <text id="241:741" name="Financial &amp; Scholarships" x="696" y="231" width="327" height="28" />
+      <frame id="241:742" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="711" y="615" width="54" height="62" />
+    </frame>
+    <frame id="241:745" name="Group 5" x="515" y="128" width="550" height="79">
+      <rounded-rectangle id="241:746" name="Rectangle 13" x="594" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:747" name="Rectangle 14" x="594" y="128" width="550" height="79" />
+      <ellipse id="241:748" name="Ellipse 1" x="589" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:749" name="Company" x="572" y="161" width="39.5" height="36" />
+      <text id="241:750" name="Admission &amp; Enrollment" x="568" y="229" width="327" height="32" />
+      <frame id="241:751" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="583" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:754" name="Group 6" x="387" y="128" width="550" height="79">
+      <rounded-rectangle id="241:755" name="Rectangle 13" x="466" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:756" name="Rectangle 14" x="466" y="128" width="550" height="79" />
+      <ellipse id="241:757" name="Ellipse 1" x="461" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:758" name="Company" x="444" y="161" width="39.5" height="36" />
+      <text id="241:759" name="Academic Policies" x="440" y="229" width="274" height="28" />
+      <frame id="241:760" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="455" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:763" name="Group 7" x="259" y="128" width="550" height="79">
+      <rounded-rectangle id="241:764" name="Rectangle 13" x="338" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:765" name="Rectangle 14" x="338" y="128" width="550" height="79" />
+      <ellipse id="241:766" name="Ellipse 1" x="333" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:767" name="Company" x="316" y="161" width="39.5" height="36" />
+      <text id="241:768" name="Daily Logistics &amp; Campus Rules" x="312" y="229" width="379" height="32" />
+      <frame id="241:769" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="327" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:772" name="material-symbols:arrow-back-ios-rounded" x="1240" y="26" width="81" height="81" />
+    <frame id="241:1293" name="Group 34" x="768" y="465" width="349.0000305175781" height="512">
+      <rounded-rectangle id="241:1294" name="Rectangle 28" x="1280" y="466" width="336" height="512" />
+      <vector id="241:1295" name="Rectangle 30" x="1139" y="465" width="336.9682922363281" height="57.25" />
+      <text id="241:1296" name="Main Menu" x="1218" y="548" width="133" height="33" />
+      <text id="241:1297" name="FAQs" x="1128.337646484375" y="548.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="241:1298" name="Directory" x="1046.947265625" y="548.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="241:1299" name="Submit Inquiry" x="976.7763671875" y="548.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <rounded-rectangle id="241:1301" name="Questions" x="1128.337646484375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1302" name="Company" x="1053.97802734375" y="492.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1303" name="Submit Resume" x="981.79833984375" y="492.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1304" name="Accessibility" x="897.4296875" y="547.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="241:1305" name="Ai Settings Spark Streamline Core Flat - Free" x="903.4560546875" y="499.0947265625" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1309" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1313" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="744.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1315" name="Log out" x="818" y="548" width="104" height="33" />
+      <frame id="241:1316" name="Door Exit Streamline Cyber Duotone - Free" x="823" y="499" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="176:38" name="FAQs" x="-5248" y="5957" width="800" height="1280">
+    <frame id="176:39" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="176:40" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="176:45" name="FAQs" x="1117" y="339" width="107" height="47" />
+    <frame id="176:46" name="Group 8" x="899" y="128" width="545" height="60">
+      <rounded-rectangle id="176:47" name="Rectangle 7" x="959" y="128" width="545" height="60" />
+      <rounded-rectangle id="176:48" name="Rectangle 12" x="959" y="608" width="34" height="60" />
+      <rounded-rectangle id="176:49" name="Rectangle 10" x="959" y="608" width="65" height="60" />
+      <frame id="176:50" name="search" x="944" y="627" width="30.749950408935547" height="29" />
+      <text id="176:52" name="Search" x="944" y="154" width="119" height="25" />
+    </frame>
+    <frame id="176:53" name="Group 3" x="771" y="128" width="550" height="79">
+      <rounded-rectangle id="176:54" name="Rectangle 13" x="850" y="128" width="550" height="79" />
+      <rounded-rectangle id="176:55" name="Rectangle 14" x="850" y="128" width="550" height="79" />
+      <ellipse id="176:56" name="Ellipse 1" x="845" y="145" width="69" height="69" />
+      <rounded-rectangle id="176:57" name="Company" x="828" y="161" width="39.5" height="36" />
+      <text id="176:58" name="Registrar &amp; Documents" x="824" y="229" width="274" height="28" />
+      <frame id="176:59" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="839" y="613" width="54" height="62" />
+    </frame>
+    <frame id="176:62" name="Group 4" x="643" y="130" width="550" height="79">
+      <rounded-rectangle id="176:63" name="Rectangle 13" x="722" y="130" width="550" height="79" />
+      <rounded-rectangle id="176:64" name="Rectangle 14" x="722" y="130" width="550" height="79" />
+      <ellipse id="176:65" name="Ellipse 1" x="717" y="147" width="69" height="69" />
+      <rounded-rectangle id="176:66" name="Company" x="700" y="163" width="39.5" height="36" />
+      <text id="176:67" name="Financial &amp; Scholarships" x="696" y="231" width="327" height="28" />
+      <frame id="176:68" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="711" y="615" width="54" height="62" />
+    </frame>
+    <frame id="176:71" name="Group 5" x="515" y="128" width="550" height="79">
+      <rounded-rectangle id="176:72" name="Rectangle 13" x="594" y="128" width="550" height="79" />
+      <rounded-rectangle id="176:73" name="Rectangle 14" x="594" y="128" width="550" height="79" />
+      <ellipse id="176:74" name="Ellipse 1" x="589" y="145" width="69" height="69" />
+      <rounded-rectangle id="176:75" name="Company" x="572" y="161" width="39.5" height="36" />
+      <text id="176:76" name="Admission &amp; Enrollment" x="568" y="229" width="327" height="32" />
+      <frame id="176:77" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="583" y="613" width="54" height="62" />
+    </frame>
+    <frame id="176:80" name="Group 6" x="387" y="128" width="550" height="79">
+      <rounded-rectangle id="176:81" name="Rectangle 13" x="466" y="128" width="550" height="79" />
+      <rounded-rectangle id="176:82" name="Rectangle 14" x="466" y="128" width="550" height="79" />
+      <ellipse id="176:83" name="Ellipse 1" x="461" y="145" width="69" height="69" />
+      <rounded-rectangle id="176:84" name="Company" x="444" y="161" width="39.5" height="36" />
+      <text id="176:85" name="Academic Policies" x="440" y="229" width="274" height="28" />
+      <frame id="176:86" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="455" y="613" width="54" height="62" />
+    </frame>
+    <frame id="176:89" name="Group 7" x="259" y="128" width="550" height="79">
+      <rounded-rectangle id="176:90" name="Rectangle 13" x="338" y="128" width="550" height="79" />
+      <rounded-rectangle id="176:91" name="Rectangle 14" x="338" y="128" width="550" height="79" />
+      <ellipse id="176:92" name="Ellipse 1" x="333" y="145" width="69" height="69" />
+      <rounded-rectangle id="176:93" name="Company" x="316" y="161" width="39.5" height="36" />
+      <text id="176:94" name="Daily Logistics &amp; Campus Rules" x="312" y="229" width="379" height="32" />
+      <frame id="176:95" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="327" y="613" width="54" height="62" />
+    </frame>
+    <frame id="176:103" name="Group 18" x="557" y="466" width="348.0000305175781" height="722">
+      <rounded-rectangle id="176:104" name="Rectangle 28" x="1279" y="466" width="336" height="722" />
+      <vector id="176:105" name="Rectangle 30" x="1136" y="466" width="336.9682922363281" height="57.25" />
+      <text id="176:106" name="Main Menu" x="1217" y="548" width="133" height="33" />
+      <text id="176:107" name="FAQs" x="1127.337646484375" y="548.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="176:108" name="Directory" x="1037.947265625" y="548.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="176:109" name="Announcements" x="948.5569458007812" y="548.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="176:110" name="School Calendar" x="859.1666259765625" y="548.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="176:111" name="Submit Inquiry" x="769.7762451171875" y="548.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="176:112" name="Text" x="679.9999389648438" y="543" width="189" height="23" />
+      <rounded-rectangle id="176:113" name="Questions" x="1127.337646484375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="176:114" name="Company" x="1044.97802734375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="176:115" name="Commercial" x="953.578857421875" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="176:116" name="Event Accepted" x="864.1885375976562" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="176:117" name="Submit Resume" x="774.7982177734375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="176:118" name="Accessibility" x="690.4297485351562" y="547.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="176:119" name="Ai Settings Spark Streamline Core Flat - Free" x="696.4560546875" y="499.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="176:123" name="Home 2 Streamline Flex Flat - Free" x="1223.7587890625" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="176:127" name="X Circle Streamline Heroicons Outline" x="1271.96923828125" y="744.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="176:129" name="Log out" x="611" y="548" width="104" height="33" />
+      <frame id="176:130" name="Door Exit Streamline Cyber Duotone - Free" x="616" y="499" width="40" height="40" />
+    </frame>
+    <frame id="188:8" name="material-symbols:arrow-back-ios-rounded" x="1240" y="26" width="81" height="81" />
+  </frame>
+  <frame id="241:774" name="FAQs" x="11081" y="7730" width="800" height="1280">
+    <frame id="241:775" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:776" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="241:779" name="FAQs" x="1117" y="339" width="107" height="47" />
+    <frame id="241:780" name="Group 8" x="899" y="128" width="545" height="60">
+      <rounded-rectangle id="241:781" name="Rectangle 7" x="959" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:782" name="Rectangle 12" x="959" y="608" width="34" height="60" />
+      <rounded-rectangle id="241:783" name="Rectangle 10" x="959" y="608" width="65" height="60" />
+      <frame id="241:784" name="search" x="944" y="627" width="30.749950408935547" height="29" />
+      <text id="241:786" name="Search" x="944" y="154" width="119" height="25" />
+    </frame>
+    <frame id="241:796" name="Group 4" x="643" y="130" width="550" height="79">
+      <rounded-rectangle id="241:797" name="Rectangle 13" x="722" y="130" width="550" height="79" />
+      <rounded-rectangle id="241:798" name="Rectangle 14" x="722" y="130" width="550" height="79" />
+      <ellipse id="241:799" name="Ellipse 1" x="717" y="147" width="69" height="69" />
+      <rounded-rectangle id="241:800" name="Company" x="700" y="163" width="39.5" height="36" />
+      <text id="241:801" name="Financial &amp; Scholarships" x="696" y="231" width="327" height="28" />
+      <frame id="241:802" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="711" y="615" width="54" height="62" />
+    </frame>
+    <frame id="241:805" name="Group 5" x="515" y="128" width="550" height="79">
+      <rounded-rectangle id="241:806" name="Rectangle 13" x="594" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:807" name="Rectangle 14" x="594" y="128" width="550" height="79" />
+      <ellipse id="241:808" name="Ellipse 1" x="589" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:809" name="Company" x="572" y="161" width="39.5" height="36" />
+      <text id="241:810" name="Admission &amp; Enrollment" x="568" y="229" width="327" height="32" />
+      <frame id="241:811" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="583" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:814" name="Group 6" x="387" y="128" width="550" height="79">
+      <rounded-rectangle id="241:815" name="Rectangle 13" x="466" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:816" name="Rectangle 14" x="466" y="128" width="550" height="79" />
+      <ellipse id="241:817" name="Ellipse 1" x="461" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:818" name="Company" x="444" y="161" width="39.5" height="36" />
+      <text id="241:819" name="Academic Policies" x="440" y="229" width="274" height="28" />
+      <frame id="241:820" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="455" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:823" name="Group 7" x="259" y="128" width="550" height="79">
+      <rounded-rectangle id="241:824" name="Rectangle 13" x="338" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:825" name="Rectangle 14" x="338" y="128" width="550" height="79" />
+      <ellipse id="241:826" name="Ellipse 1" x="333" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:827" name="Company" x="316" y="161" width="39.5" height="36" />
+      <text id="241:828" name="Daily Logistics &amp; Campus Rules" x="312" y="229" width="379" height="32" />
+      <frame id="241:829" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="327" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:868" name="material-symbols:arrow-back-ios-rounded" x="1240" y="26" width="81" height="81" />
+    <frame id="241:787" name="Group 3" x="771" y="128" width="550" height="79">
+      <rounded-rectangle id="241:788" name="Rectangle 13" x="850" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:789" name="Rectangle 14" x="850" y="128" width="550" height="79" />
+      <ellipse id="241:790" name="Ellipse 1" x="845" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:791" name="Company" x="828" y="161" width="39.5" height="36" />
+      <text id="241:792" name="Registrar &amp; Documents" x="824" y="229" width="274" height="28" />
+      <frame id="241:793" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="839" y="613" width="54" height="62" />
+    </frame>
+    <frame id="251:38" name="fa6-solid:bars" x="1230" y="707" width="54.25" height="62" />
+  </frame>
+  <frame id="157:2" name="FAQs" x="-3544" y="5958" width="800" height="1280">
+    <frame id="157:3" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="157:4" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="157:7" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="157:9" name="FAQs" x="1117" y="339" width="107" height="47" />
+    <frame id="157:10" name="Group 8" x="899" y="128" width="545" height="60">
+      <rounded-rectangle id="157:11" name="Rectangle 7" x="959" y="128" width="545" height="60" />
+      <rounded-rectangle id="157:12" name="Rectangle 12" x="959" y="608" width="34" height="60" />
+      <rounded-rectangle id="157:13" name="Rectangle 10" x="959" y="608" width="65" height="60" />
+      <frame id="157:14" name="search" x="944" y="627" width="30.749950408935547" height="29" />
+      <text id="157:16" name="Search" x="944" y="154" width="119" height="25" />
+    </frame>
+    <frame id="157:26" name="Group 4" x="459" y="128" width="550" height="79">
+      <rounded-rectangle id="157:27" name="Rectangle 13" x="538" y="128" width="550" height="79" />
+      <rounded-rectangle id="157:28" name="Rectangle 14" x="538" y="128" width="550" height="79" />
+      <ellipse id="157:29" name="Ellipse 1" x="533" y="145" width="69" height="69" />
+      <rounded-rectangle id="157:30" name="Company" x="516" y="161" width="39.5" height="36" />
+      <text id="157:31" name="Financial &amp; Scholarships" x="512" y="229" width="327" height="28" />
+      <frame id="157:32" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="527" y="613" width="54" height="62" />
+    </frame>
+    <frame id="157:35" name="Group 5" x="354" y="128" width="550" height="79">
+      <rounded-rectangle id="157:36" name="Rectangle 13" x="433" y="128" width="550" height="79" />
+      <rounded-rectangle id="157:37" name="Rectangle 14" x="433" y="128" width="550" height="79" />
+      <ellipse id="157:38" name="Ellipse 1" x="428" y="145" width="69" height="69" />
+      <rounded-rectangle id="157:39" name="Company" x="411" y="161" width="39.5" height="36" />
+      <text id="157:40" name="Admission &amp; Enrollment" x="407" y="229" width="327" height="32" />
+      <frame id="157:41" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="422" y="613" width="54" height="62" />
+    </frame>
+    <frame id="157:44" name="Group 6" x="249" y="128" width="550" height="79">
+      <rounded-rectangle id="157:45" name="Rectangle 13" x="328" y="128" width="550" height="79" />
+      <rounded-rectangle id="157:46" name="Rectangle 14" x="328" y="128" width="550" height="79" />
+      <ellipse id="157:47" name="Ellipse 1" x="323" y="145" width="69" height="69" />
+      <rounded-rectangle id="157:48" name="Company" x="306" y="161" width="39.5" height="36" />
+      <text id="157:49" name="Academic Policies" x="302" y="229" width="274" height="28" />
+      <frame id="157:50" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="317" y="613" width="54" height="62" />
+    </frame>
+    <frame id="157:71" name="Group 15" x="569" y="133" width="545" height="281">
+      <rounded-rectangle id="157:68" name="Rectangle 14" x="850" y="132.99999999999955" width="545" height="281" />
+      <rounded-rectangle id="157:70" name="Rectangle 22" x="761" y="133" width="545" height="192" />
+      <rounded-rectangle id="157:72" name="Rectangle 23" x="769" y="133" width="545" height="40" />
+      <ellipse id="157:73" name="Ellipse 1" x="845" y="145" width="69" height="69" />
+      <rounded-rectangle id="157:75" name="Company" x="828" y="161" width="39.5" height="36" />
+      <text id="157:77" name="Registrar &amp; Documents" x="822" y="229" width="274" height="28" />
+      <frame id="157:79" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="777" y="618" width="54" height="62" />
+    </frame>
+    <frame id="189:621" name="material-symbols:arrow-back-ios-rounded" x="1240" y="26" width="81" height="81" />
+  </frame>
+  <frame id="241:870" name="FAQs" x="12013" y="7730" width="800" height="1280">
+    <frame id="241:871" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:872" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:875" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:877" name="FAQs" x="1117" y="339" width="107" height="47" />
+    <frame id="241:878" name="Group 8" x="899" y="128" width="545" height="60">
+      <rounded-rectangle id="241:879" name="Rectangle 7" x="959" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:880" name="Rectangle 12" x="959" y="608" width="34" height="60" />
+      <rounded-rectangle id="241:881" name="Rectangle 10" x="959" y="608" width="65" height="60" />
+      <frame id="241:882" name="search" x="944" y="627" width="30.749950408935547" height="29" />
+      <text id="241:884" name="Search" x="944" y="154" width="119" height="25" />
+    </frame>
+    <frame id="241:894" name="Group 4" x="459" y="128" width="550" height="79">
+      <rounded-rectangle id="241:895" name="Rectangle 13" x="538" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:896" name="Rectangle 14" x="538" y="128" width="550" height="79" />
+      <ellipse id="241:897" name="Ellipse 1" x="533" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:898" name="Company" x="516" y="161" width="39.5" height="36" />
+      <text id="241:899" name="Financial &amp; Scholarships" x="512" y="229" width="327" height="28" />
+      <frame id="241:900" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="527" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:903" name="Group 5" x="354" y="128" width="550" height="79">
+      <rounded-rectangle id="241:904" name="Rectangle 13" x="433" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:905" name="Rectangle 14" x="433" y="128" width="550" height="79" />
+      <ellipse id="241:906" name="Ellipse 1" x="428" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:907" name="Company" x="411" y="161" width="39.5" height="36" />
+      <text id="241:908" name="Admission &amp; Enrollment" x="407" y="229" width="327" height="32" />
+      <frame id="241:909" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="422" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:912" name="Group 6" x="249" y="128" width="550" height="79">
+      <rounded-rectangle id="241:913" name="Rectangle 13" x="328" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:914" name="Rectangle 14" x="328" y="128" width="550" height="79" />
+      <ellipse id="241:915" name="Ellipse 1" x="323" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:916" name="Company" x="306" y="161" width="39.5" height="36" />
+      <text id="241:917" name="Academic Policies" x="302" y="229" width="274" height="28" />
+      <frame id="241:918" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="317" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:921" name="Group 15" x="569" y="133" width="545" height="281">
+      <rounded-rectangle id="241:922" name="Rectangle 14" x="850" y="132.99999999999955" width="545" height="281" />
+      <rounded-rectangle id="241:923" name="Rectangle 22" x="761" y="133" width="545" height="192" />
+      <rounded-rectangle id="241:924" name="Rectangle 23" x="769" y="133" width="545" height="40" />
+      <ellipse id="241:925" name="Ellipse 1" x="845" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:926" name="Company" x="828" y="161" width="39.5" height="36" />
+      <text id="241:927" name="Registrar &amp; Documents" x="822" y="229" width="274" height="28" />
+      <frame id="241:928" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="777" y="618" width="54" height="62" />
+    </frame>
+    <frame id="241:931" name="material-symbols:arrow-back-ios-rounded" x="1240" y="26" width="81" height="81" />
+  </frame>
+  <frame id="157:112" name="Burger Button" x="-2674" y="5958" width="800" height="1280">
+    <frame id="157:113" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="157:114" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="157:117" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="157:119" name="FAQs" x="1117" y="339" width="107" height="47" />
+    <frame id="157:120" name="Group 8" x="899" y="128" width="545" height="60">
+      <rounded-rectangle id="157:121" name="Rectangle 7" x="959" y="128" width="545" height="60" />
+      <rounded-rectangle id="157:122" name="Rectangle 12" x="959" y="608" width="34" height="60" />
+      <rounded-rectangle id="157:123" name="Rectangle 10" x="959" y="608" width="65" height="60" />
+      <frame id="157:124" name="search" x="944" y="627" width="30.749950408935547" height="29" />
+      <text id="157:126" name="Search" x="944" y="154" width="119" height="25" />
+    </frame>
+    <frame id="157:136" name="Group 4" x="459" y="128" width="550" height="79">
+      <rounded-rectangle id="157:137" name="Rectangle 13" x="538" y="128" width="550" height="79" />
+      <rounded-rectangle id="157:138" name="Rectangle 14" x="538" y="128" width="550" height="79" />
+      <ellipse id="157:139" name="Ellipse 1" x="533" y="145" width="69" height="69" />
+      <rounded-rectangle id="157:140" name="Company" x="516" y="161" width="39.5" height="36" />
+      <text id="157:141" name="Financial &amp; Scholarships" x="512" y="229" width="327" height="28" />
+      <frame id="157:142" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="527" y="613" width="54" height="62" />
+    </frame>
+    <frame id="157:145" name="Group 5" x="354" y="128" width="550" height="79">
+      <rounded-rectangle id="157:146" name="Rectangle 13" x="433" y="128" width="550" height="79" />
+      <rounded-rectangle id="157:147" name="Rectangle 14" x="433" y="128" width="550" height="79" />
+      <ellipse id="157:148" name="Ellipse 1" x="428" y="145" width="69" height="69" />
+      <rounded-rectangle id="157:149" name="Company" x="411" y="161" width="39.5" height="36" />
+      <text id="157:150" name="Admission &amp; Enrollment" x="407" y="229" width="327" height="32" />
+      <frame id="157:151" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="422" y="613" width="54" height="62" />
+    </frame>
+    <frame id="157:154" name="Group 6" x="249" y="128" width="550" height="79">
+      <rounded-rectangle id="157:155" name="Rectangle 13" x="328" y="128" width="550" height="79" />
+      <rounded-rectangle id="157:156" name="Rectangle 14" x="328" y="128" width="550" height="79" />
+      <ellipse id="157:157" name="Ellipse 1" x="323" y="145" width="69" height="69" />
+      <rounded-rectangle id="157:158" name="Company" x="306" y="161" width="39.5" height="36" />
+      <text id="157:159" name="Academic Policies" x="302" y="229" width="274" height="28" />
+      <frame id="157:160" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="317" y="613" width="54" height="62" />
+    </frame>
+    <frame id="157:168" name="Group 15" x="569" y="133" width="545" height="281">
+      <rounded-rectangle id="157:169" name="Rectangle 14" x="850" y="132.99999999999955" width="545" height="281" />
+      <rounded-rectangle id="157:170" name="Rectangle 22" x="761" y="133" width="545" height="192" />
+      <rounded-rectangle id="157:171" name="Rectangle 23" x="769" y="133" width="545" height="40" />
+      <ellipse id="157:172" name="Ellipse 1" x="845" y="145" width="69" height="69" />
+      <rounded-rectangle id="157:173" name="Company" x="828" y="161" width="39.5" height="36" />
+      <text id="157:174" name="Registrar &amp; Documents" x="822" y="229" width="274" height="28" />
+      <frame id="157:175" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="777" y="618" width="54" height="62" />
+    </frame>
+    <frame id="188:10" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="189:658" name="Group 19" x="558" y="468" width="348.0000305175781" height="722">
+      <rounded-rectangle id="189:659" name="Rectangle 28" x="1280" y="468" width="336" height="722" />
+      <vector id="189:660" name="Rectangle 30" x="1141" y="468" width="336.9682922363281" height="57.25" />
+      <text id="189:661" name="Main Menu" x="1218" y="550" width="133" height="33" />
+      <text id="189:662" name="FAQs" x="1128.337646484375" y="550.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="189:663" name="Directory" x="1038.947265625" y="550.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="189:664" name="Announcements" x="949.5569458007812" y="550.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="189:665" name="School Calendar" x="860.1666259765625" y="550.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="189:666" name="Submit Inquiry" x="770.7762451171875" y="550.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="189:667" name="Text" x="680.9999389648438" y="545" width="189" height="23" />
+      <rounded-rectangle id="189:668" name="Questions" x="1128.337646484375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:669" name="Company" x="1045.97802734375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:670" name="Commercial" x="954.578857421875" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:671" name="Event Accepted" x="865.1885375976562" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:672" name="Submit Resume" x="775.7982177734375" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:673" name="Accessibility" x="691.4297485351562" y="549.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="189:674" name="Ai Settings Spark Streamline Core Flat - Free" x="697.4560546875" y="501.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:678" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="494.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:682" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="746.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:684" name="Log out" x="612" y="550" width="104" height="33" />
+      <frame id="189:685" name="Door Exit Streamline Cyber Duotone - Free" x="617" y="501" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="241:933" name="Burger Button" x="12013" y="6341" width="800" height="1280">
+    <frame id="241:934" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:935" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:939" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:941" name="FAQs" x="1117" y="339" width="107" height="47" />
+    <frame id="241:942" name="Group 8" x="899" y="128" width="545" height="60">
+      <rounded-rectangle id="241:943" name="Rectangle 7" x="959" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:944" name="Rectangle 12" x="959" y="608" width="34" height="60" />
+      <rounded-rectangle id="241:945" name="Rectangle 10" x="959" y="608" width="65" height="60" />
+      <frame id="241:946" name="search" x="944" y="627" width="30.749950408935547" height="29" />
+      <text id="241:948" name="Search" x="944" y="154" width="119" height="25" />
+    </frame>
+    <frame id="241:958" name="Group 4" x="459" y="128" width="550" height="79">
+      <rounded-rectangle id="241:959" name="Rectangle 13" x="538" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:960" name="Rectangle 14" x="538" y="128" width="550" height="79" />
+      <ellipse id="241:961" name="Ellipse 1" x="533" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:962" name="Company" x="516" y="161" width="39.5" height="36" />
+      <text id="241:963" name="Financial &amp; Scholarships" x="512" y="229" width="327" height="28" />
+      <frame id="241:964" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="527" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:967" name="Group 5" x="354" y="128" width="550" height="79">
+      <rounded-rectangle id="241:968" name="Rectangle 13" x="433" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:969" name="Rectangle 14" x="433" y="128" width="550" height="79" />
+      <ellipse id="241:970" name="Ellipse 1" x="428" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:971" name="Company" x="411" y="161" width="39.5" height="36" />
+      <text id="241:972" name="Admission &amp; Enrollment" x="407" y="229" width="327" height="32" />
+      <frame id="241:973" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="422" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:976" name="Group 6" x="249" y="128" width="550" height="79">
+      <rounded-rectangle id="241:977" name="Rectangle 13" x="328" y="128" width="550" height="79" />
+      <rounded-rectangle id="241:978" name="Rectangle 14" x="328" y="128" width="550" height="79" />
+      <ellipse id="241:979" name="Ellipse 1" x="323" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:980" name="Company" x="306" y="161" width="39.5" height="36" />
+      <text id="241:981" name="Academic Policies" x="302" y="229" width="274" height="28" />
+      <frame id="241:982" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="317" y="613" width="54" height="62" />
+    </frame>
+    <frame id="241:985" name="Group 15" x="569" y="133" width="545" height="281">
+      <rounded-rectangle id="241:986" name="Rectangle 14" x="850" y="132.99999999999955" width="545" height="281" />
+      <rounded-rectangle id="241:987" name="Rectangle 22" x="761" y="133" width="545" height="192" />
+      <rounded-rectangle id="241:988" name="Rectangle 23" x="769" y="133" width="545" height="40" />
+      <ellipse id="241:989" name="Ellipse 1" x="845" y="145" width="69" height="69" />
+      <rounded-rectangle id="241:990" name="Company" x="828" y="161" width="39.5" height="36" />
+      <text id="241:991" name="Registrar &amp; Documents" x="822" y="229" width="274" height="28" />
+      <frame id="241:992" name="Arrow Drop Down Fill Streamline Outlined Fill - Material Pro Free" x="777" y="618" width="54" height="62" />
+    </frame>
+    <frame id="241:995" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="241:1325" name="Group 35" x="768" y="468" width="349.0000305175781" height="512">
+      <rounded-rectangle id="241:1326" name="Rectangle 28" x="1280" y="469" width="336" height="512" />
+      <vector id="241:1327" name="Rectangle 30" x="1140" y="468" width="336.9682922363281" height="57.25" />
+      <text id="241:1328" name="Main Menu" x="1218" y="551" width="133" height="33" />
+      <text id="241:1329" name="FAQs" x="1128.337646484375" y="551.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="241:1330" name="Directory" x="1047.947265625" y="551.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="241:1331" name="Submit Inquiry" x="975.7763671875" y="551.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <rounded-rectangle id="241:1333" name="Questions" x="1128.337646484375" y="495.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1334" name="Company" x="1054.97802734375" y="495.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1335" name="Submit Resume" x="980.79833984375" y="495.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1336" name="Accessibility" x="896.4296875" y="550.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="241:1337" name="Ai Settings Spark Streamline Core Flat - Free" x="902.4560546875" y="502.0947265625" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1341" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="495.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1345" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="747.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1347" name="Log out" x="817" y="551" width="104" height="33" />
+      <frame id="241:1348" name="Door Exit Streamline Cyber Duotone - Free" x="822" y="502" width="40" height="40" />
+    </frame>
+  </frame>
+  <text id="30:89" name="Main Menu" x="1940" y="2440" width="345" height="77" hidden="true" />
+  <rounded-rectangle id="159:3" name="image 1" x="7320.658203125" y="-1946" width="2053.641541907564" height="1412.2420930862427" hidden="true" />
+  <frame id="167:57" name="Directory" x="-1363" y="6651" width="800" height="1280">
+    <frame id="167:58" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="167:59" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="167:62" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="167:64" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="167:65" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="167:66" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="167:67" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="167:68" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="167:69" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="167:71" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <frame id="167:132" name="Group 17" x="923" y="73" width="121" height="50">
+      <rounded-rectangle id="167:123" name="Rounded rectangle" x="973" y="73" width="121" height="50" />
+      <text id="167:131" name="ALL" x="968" y="105" width="58" height="39" />
+    </frame>
+    <frame id="168:21" name="Group 22" x="923" y="204" width="121" height="50">
+      <rounded-rectangle id="168:22" name="Rounded rectangle" x="973" y="204" width="121" height="50" />
+      <text id="168:23" name="Offices" x="968" y="213" width="109" height="39" />
+    </frame>
+    <frame id="168:13" name="Group 20" x="923" y="466" width="121" height="50">
+      <rounded-rectangle id="168:14" name="Rounded rectangle" x="973" y="466" width="121" height="50" />
+      <text id="168:15" name="Labs" x="968" y="490" width="73" height="39" />
+    </frame>
+    <frame id="168:17" name="Group 21" x="923" y="598" width="121" height="50">
+      <rounded-rectangle id="168:18" name="Rounded rectangle" x="973" y="598" width="121" height="50" />
+      <text id="168:19" name="Faculties" x="965" y="601" width="115" height="33" />
+    </frame>
+    <frame id="168:6" name="Group 19" x="923" y="336" width="121" height="50">
+      <rounded-rectangle id="168:7" name="Rounded rectangle" x="973" y="336" width="121" height="50" />
+      <text id="168:8" name="Libraries" x="965" y="342" width="110" height="33" />
+    </frame>
+    <frame id="168:58" name="Group 23" x="745" y="95" width="283" height="128">
+      <rounded-rectangle id="168:59" name="Rectangle 33" x="873" y="95" width="283" height="128" />
+      <text id="165:24" name="Registrar" x="833" y="153" width="180" height="48" />
+    </frame>
+    <frame id="168:61" name="Group 24" x="745" y="421" width="283" height="128">
+      <rounded-rectangle id="168:62" name="Rectangle 33" x="873" y="421" width="283" height="128" />
+      <text id="168:65" name="Main Library" x="833" y="444" width="244" height="48" />
+    </frame>
+    <frame id="168:67" name="Group 25" x="589" y="95" width="283" height="128">
+      <rounded-rectangle id="168:68" name="Rectangle 33" x="717" y="95" width="283" height="128" />
+      <text id="168:69" name="Parking" x="677" y="162" width="150" height="48" />
+    </frame>
+    <frame id="168:81" name="Group 27" x="433" y="95" width="283" height="128">
+      <rounded-rectangle id="168:82" name="Rectangle 33" x="561" y="95" width="283" height="128" />
+      <text id="168:83" name="Assembly Hall" x="521" y="106" width="265" height="46" />
+    </frame>
+    <frame id="176:139" name="Group 29" x="277" y="95" width="283" height="128">
+      <rounded-rectangle id="176:140" name="Rectangle 33" x="405" y="95" width="283" height="128" />
+      <text id="176:141" name="NSTP Office" x="365" y="123" width="227" height="46" />
+    </frame>
+    <frame id="176:142" name="Group 30" x="277" y="421" width="283" height="128">
+      <rounded-rectangle id="176:143" name="Rectangle 33" x="405" y="421" width="283" height="128" />
+      <text id="176:144" name="Auditorium" x="365" y="458" width="209" height="46" />
+    </frame>
+    <frame id="165:48" name="Group 28" x="433" y="421" width="283" height="128">
+      <rounded-rectangle id="165:49" name="Rectangle 33" x="561" y="421" width="283" height="128" />
+      <text id="165:50" name="Lecture Hall" x="521" y="454" width="223" height="46" />
+    </frame>
+    <frame id="168:73" name="Group 26" x="589" y="421" width="283" height="128">
+      <rounded-rectangle id="168:74" name="Rectangle 33" x="717" y="421" width="283" height="128" />
+      <text id="168:75" name="Canteen" x="677" y="479" width="167" height="48" />
+    </frame>
+    <frame id="188:21" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="241:156" name="Directory" x="7353" y="7730" width="800" height="1280">
+    <frame id="241:157" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:158" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:162" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:164" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="241:165" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="241:166" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="241:167" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="241:168" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="241:169" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="241:171" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <frame id="241:172" name="Group 17" x="923" y="73" width="121" height="50">
+      <rounded-rectangle id="241:173" name="Rounded rectangle" x="973" y="73" width="121" height="50" />
+      <text id="241:174" name="ALL" x="968" y="105" width="58" height="39" />
+    </frame>
+    <frame id="241:175" name="Group 22" x="923" y="204" width="121" height="50">
+      <rounded-rectangle id="241:176" name="Rounded rectangle" x="973" y="204" width="121" height="50" />
+      <text id="241:177" name="Offices" x="968" y="213" width="109" height="39" />
+    </frame>
+    <frame id="241:178" name="Group 20" x="923" y="466" width="121" height="50">
+      <rounded-rectangle id="241:179" name="Rounded rectangle" x="973" y="466" width="121" height="50" />
+      <text id="241:180" name="Labs" x="968" y="490" width="73" height="39" />
+    </frame>
+    <frame id="241:181" name="Group 21" x="923" y="598" width="121" height="50">
+      <rounded-rectangle id="241:182" name="Rounded rectangle" x="973" y="598" width="121" height="50" />
+      <text id="241:183" name="Faculties" x="965" y="601" width="115" height="33" />
+    </frame>
+    <frame id="241:184" name="Group 19" x="923" y="336" width="121" height="50">
+      <rounded-rectangle id="241:185" name="Rounded rectangle" x="973" y="336" width="121" height="50" />
+      <text id="241:186" name="Libraries" x="965" y="342" width="110" height="33" />
+    </frame>
+    <frame id="241:187" name="Group 23" x="745" y="95" width="283" height="128">
+      <rounded-rectangle id="241:188" name="Rectangle 33" x="873" y="95" width="283" height="128" />
+      <text id="241:189" name="Registrar" x="833" y="153" width="180" height="48" />
+    </frame>
+    <frame id="241:190" name="Group 24" x="745" y="421" width="283" height="128">
+      <rounded-rectangle id="241:191" name="Rectangle 33" x="873" y="421" width="283" height="128" />
+      <text id="241:192" name="Main Library" x="833" y="444" width="244" height="48" />
+    </frame>
+    <frame id="241:193" name="Group 25" x="589" y="95" width="283" height="128">
+      <rounded-rectangle id="241:194" name="Rectangle 33" x="717" y="95" width="283" height="128" />
+      <text id="241:195" name="Parking" x="677" y="162" width="150" height="48" />
+    </frame>
+    <frame id="241:196" name="Group 27" x="433" y="95" width="283" height="128">
+      <rounded-rectangle id="241:197" name="Rectangle 33" x="561" y="95" width="283" height="128" />
+      <text id="241:198" name="Assembly Hall" x="521" y="106" width="265" height="46" />
+    </frame>
+    <frame id="241:199" name="Group 29" x="277" y="95" width="283" height="128">
+      <rounded-rectangle id="241:200" name="Rectangle 33" x="405" y="95" width="283" height="128" />
+      <text id="241:201" name="NSTP Office" x="365" y="123" width="227" height="46" />
+    </frame>
+    <frame id="241:202" name="Group 30" x="277" y="421" width="283" height="128">
+      <rounded-rectangle id="241:203" name="Rectangle 33" x="405" y="421" width="283" height="128" />
+      <text id="241:204" name="Auditorium" x="365" y="458" width="209" height="46" />
+    </frame>
+    <frame id="241:205" name="Group 28" x="433" y="421" width="283" height="128">
+      <rounded-rectangle id="241:206" name="Rectangle 33" x="561" y="421" width="283" height="128" />
+      <text id="241:207" name="Lecture Hall" x="521" y="454" width="223" height="46" />
+    </frame>
+    <frame id="241:208" name="Group 26" x="589" y="421" width="283" height="128">
+      <rounded-rectangle id="241:209" name="Rectangle 33" x="717" y="421" width="283" height="128" />
+      <text id="241:210" name="Canteen" x="677" y="479" width="167" height="48" />
+    </frame>
+    <frame id="241:211" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="189:507" name="Directory" x="-1363" y="5262" width="800" height="1280">
+    <frame id="189:508" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="189:509" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="189:515" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="189:516" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="189:517" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="189:518" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="189:519" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="189:520" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="189:522" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <frame id="189:528" name="Group 17" x="923" y="73" width="121" height="50">
+      <rounded-rectangle id="189:529" name="Rounded rectangle" x="973" y="73" width="121" height="50" />
+      <text id="189:530" name="ALL" x="968" y="105" width="58" height="39" />
+    </frame>
+    <frame id="189:531" name="Group 22" x="923" y="204" width="121" height="50">
+      <rounded-rectangle id="189:532" name="Rounded rectangle" x="973" y="204" width="121" height="50" />
+      <text id="189:533" name="Offices" x="968" y="213" width="109" height="39" />
+    </frame>
+    <frame id="189:534" name="Group 20" x="923" y="466" width="121" height="50">
+      <rounded-rectangle id="189:535" name="Rounded rectangle" x="973" y="466" width="121" height="50" />
+      <text id="189:536" name="Labs" x="968" y="490" width="73" height="39" />
+    </frame>
+    <frame id="189:537" name="Group 21" x="923" y="598" width="121" height="50">
+      <rounded-rectangle id="189:538" name="Rounded rectangle" x="973" y="598" width="121" height="50" />
+      <text id="189:539" name="Faculties" x="965" y="601" width="115" height="33" />
+    </frame>
+    <frame id="189:540" name="Group 19" x="923" y="336" width="121" height="50">
+      <rounded-rectangle id="189:541" name="Rounded rectangle" x="973" y="336" width="121" height="50" />
+      <text id="189:542" name="Libraries" x="965" y="342" width="110" height="33" />
+    </frame>
+    <frame id="189:543" name="Group 23" x="745" y="95" width="283" height="128">
+      <rounded-rectangle id="189:544" name="Rectangle 33" x="873" y="95" width="283" height="128" />
+      <text id="189:545" name="Registrar" x="833" y="153" width="180" height="48" />
+    </frame>
+    <frame id="189:546" name="Group 24" x="745" y="421" width="283" height="128">
+      <rounded-rectangle id="189:547" name="Rectangle 33" x="873" y="421" width="283" height="128" />
+      <text id="189:548" name="Main Library" x="833" y="444" width="244" height="48" />
+    </frame>
+    <frame id="189:549" name="Group 25" x="589" y="95" width="283" height="128">
+      <rounded-rectangle id="189:550" name="Rectangle 33" x="717" y="95" width="283" height="128" />
+      <text id="189:551" name="Parking" x="677" y="162" width="150" height="48" />
+    </frame>
+    <frame id="189:552" name="Group 27" x="433" y="95" width="283" height="128">
+      <rounded-rectangle id="189:553" name="Rectangle 33" x="561" y="95" width="283" height="128" />
+      <text id="189:554" name="Assembly Hall" x="521" y="106" width="265" height="46" />
+    </frame>
+    <frame id="189:555" name="Group 29" x="277" y="95" width="283" height="128">
+      <rounded-rectangle id="189:556" name="Rectangle 33" x="405" y="95" width="283" height="128" />
+      <text id="189:557" name="NSTP Office" x="365" y="123" width="227" height="46" />
+    </frame>
+    <frame id="189:558" name="Group 30" x="277" y="421" width="283" height="128">
+      <rounded-rectangle id="189:559" name="Rectangle 33" x="405" y="421" width="283" height="128" />
+      <text id="189:560" name="Auditorium" x="365" y="458" width="209" height="46" />
+    </frame>
+    <frame id="189:561" name="Group 28" x="433" y="421" width="283" height="128">
+      <rounded-rectangle id="189:562" name="Rectangle 33" x="561" y="421" width="283" height="128" />
+      <text id="189:563" name="Lecture Hall" x="521" y="454" width="223" height="46" />
+    </frame>
+    <frame id="189:564" name="Group 26" x="589" y="421" width="283" height="128">
+      <rounded-rectangle id="189:565" name="Rectangle 33" x="717" y="421" width="283" height="128" />
+      <text id="189:566" name="Canteen" x="677" y="479" width="167" height="48" />
+    </frame>
+    <frame id="188:18" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="189:730" name="Group 21" x="558" y="466" width="348.0000305175781" height="722">
+      <rounded-rectangle id="189:731" name="Rectangle 28" x="1280" y="466" width="336" height="722" />
+      <vector id="189:732" name="Rectangle 30" x="1053" y="466" width="336.9682922363281" height="57.25" />
+      <text id="189:733" name="Main Menu" x="1218" y="548" width="133" height="33" />
+      <text id="189:734" name="FAQs" x="1128.337646484375" y="548.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="189:735" name="Directory" x="1038.947265625" y="548.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="189:736" name="Announcements" x="949.5569458007812" y="548.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="189:737" name="School Calendar" x="860.1666259765625" y="548.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="189:738" name="Submit Inquiry" x="770.7762451171875" y="548.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="189:739" name="Text" x="680.9999389648438" y="543" width="189" height="23" />
+      <rounded-rectangle id="189:740" name="Questions" x="1128.337646484375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:741" name="Company" x="1045.97802734375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:742" name="Commercial" x="954.578857421875" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:743" name="Event Accepted" x="865.1885375976562" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:744" name="Submit Resume" x="775.7982177734375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:745" name="Accessibility" x="691.4297485351562" y="547.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="189:746" name="Ai Settings Spark Streamline Core Flat - Free" x="697.4560546875" y="499.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:750" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:754" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="744.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:756" name="Log out" x="612" y="548" width="104" height="33" />
+      <frame id="189:757" name="Door Exit Streamline Cyber Duotone - Free" x="617" y="499" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="241:213" name="Directory" x="7353" y="6341" width="800" height="1280">
+    <frame id="241:214" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:215" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="241:219" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="241:220" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="241:221" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="241:222" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="241:223" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="241:224" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="241:226" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <frame id="241:227" name="Group 17" x="923" y="73" width="121" height="50">
+      <rounded-rectangle id="241:228" name="Rounded rectangle" x="973" y="73" width="121" height="50" />
+      <text id="241:229" name="ALL" x="968" y="105" width="58" height="39" />
+    </frame>
+    <frame id="241:230" name="Group 22" x="923" y="204" width="121" height="50">
+      <rounded-rectangle id="241:231" name="Rounded rectangle" x="973" y="204" width="121" height="50" />
+      <text id="241:232" name="Offices" x="968" y="213" width="109" height="39" />
+    </frame>
+    <frame id="241:233" name="Group 20" x="923" y="466" width="121" height="50">
+      <rounded-rectangle id="241:234" name="Rounded rectangle" x="973" y="466" width="121" height="50" />
+      <text id="241:235" name="Labs" x="968" y="490" width="73" height="39" />
+    </frame>
+    <frame id="241:236" name="Group 21" x="923" y="598" width="121" height="50">
+      <rounded-rectangle id="241:237" name="Rounded rectangle" x="973" y="598" width="121" height="50" />
+      <text id="241:238" name="Faculties" x="965" y="601" width="115" height="33" />
+    </frame>
+    <frame id="241:239" name="Group 19" x="923" y="336" width="121" height="50">
+      <rounded-rectangle id="241:240" name="Rounded rectangle" x="973" y="336" width="121" height="50" />
+      <text id="241:241" name="Libraries" x="965" y="342" width="110" height="33" />
+    </frame>
+    <frame id="241:242" name="Group 23" x="745" y="95" width="283" height="128">
+      <rounded-rectangle id="241:243" name="Rectangle 33" x="873" y="95" width="283" height="128" />
+      <text id="241:244" name="Registrar" x="833" y="153" width="180" height="48" />
+    </frame>
+    <frame id="241:245" name="Group 24" x="745" y="421" width="283" height="128">
+      <rounded-rectangle id="241:246" name="Rectangle 33" x="873" y="421" width="283" height="128" />
+      <text id="241:247" name="Main Library" x="833" y="444" width="244" height="48" />
+    </frame>
+    <frame id="241:248" name="Group 25" x="589" y="95" width="283" height="128">
+      <rounded-rectangle id="241:249" name="Rectangle 33" x="717" y="95" width="283" height="128" />
+      <text id="241:250" name="Parking" x="677" y="162" width="150" height="48" />
+    </frame>
+    <frame id="241:251" name="Group 27" x="433" y="95" width="283" height="128">
+      <rounded-rectangle id="241:252" name="Rectangle 33" x="561" y="95" width="283" height="128" />
+      <text id="241:253" name="Assembly Hall" x="521" y="106" width="265" height="46" />
+    </frame>
+    <frame id="241:254" name="Group 29" x="277" y="95" width="283" height="128">
+      <rounded-rectangle id="241:255" name="Rectangle 33" x="405" y="95" width="283" height="128" />
+      <text id="241:256" name="NSTP Office" x="365" y="123" width="227" height="46" />
+    </frame>
+    <frame id="241:257" name="Group 30" x="277" y="421" width="283" height="128">
+      <rounded-rectangle id="241:258" name="Rectangle 33" x="405" y="421" width="283" height="128" />
+      <text id="241:259" name="Auditorium" x="365" y="458" width="209" height="46" />
+    </frame>
+    <frame id="241:260" name="Group 28" x="433" y="421" width="283" height="128">
+      <rounded-rectangle id="241:261" name="Rectangle 33" x="561" y="421" width="283" height="128" />
+      <text id="241:262" name="Lecture Hall" x="521" y="454" width="223" height="46" />
+    </frame>
+    <frame id="241:263" name="Group 26" x="589" y="421" width="283" height="128">
+      <rounded-rectangle id="241:264" name="Rectangle 33" x="717" y="421" width="283" height="128" />
+      <text id="241:265" name="Canteen" x="677" y="479" width="167" height="48" />
+    </frame>
+    <frame id="241:266" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="241:584" name="Group 20" x="768" y="471" width="349.0000305175781" height="512">
+      <rounded-rectangle id="241:585" name="Rectangle 28" x="1280" y="472" width="336" height="512" />
+      <vector id="241:586" name="Rectangle 30" x="1068" y="471" width="336.9682922363281" height="57.25" />
+      <text id="241:587" name="Main Menu" x="1218" y="554" width="133" height="33" />
+      <text id="241:588" name="FAQs" x="1130.337890625" y="554.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="241:589" name="Directory" x="1055.947265625" y="554.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="241:590" name="Submit Inquiry" x="992.7763671875" y="554.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <rounded-rectangle id="241:592" name="Questions" x="1130.337890625" y="498.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:593" name="Company" x="1062.97802734375" y="498.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:594" name="Submit Resume" x="997.79833984375" y="498.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:595" name="Accessibility" x="913.4296875" y="553.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="241:596" name="Ai Settings Spark Streamline Core Flat - Free" x="919.4560546875" y="505.0947265625" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:600" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="498.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:604" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="750.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:606" name="Log out" x="834" y="554" width="104" height="33" />
+      <frame id="241:607" name="Door Exit Streamline Cyber Duotone - Free" x="839" y="505" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="176:145" name="Directory" x="-431" y="6651" width="800" height="1280">
+    <frame id="176:146" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="176:147" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="176:151" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="176:153" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="176:154" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="176:155" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="176:156" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="176:157" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="176:158" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="176:160" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="176:206" name="Rectangle 34" x="923" y="22" width="757" height="587" />
+    <frame id="176:205" name="Group 31" x="858" y="756.0000610351562" width="713.0000610351562" height="506.343017578125">
+      <rounded-rectangle id="161:63" name="main campuss 1" x="858.0000000000005" y="45.26409912109375" width="713.0000386879093" height="506.34302633524294" />
+      <frame id="165:7" name="line-md:circle-twotone" x="638.0001831054688" y="92.96002197265625" width="10.711374007421" height="10.041998366637927" />
+      <frame id="165:11" name="si:pin-line" x="658.693603515625" y="92.9288330078125" width="11.821647290054614" height="11.08288958940284" />
+      <frame id="165:20" name="Group" x="652.758056640625" y="94.3260498046875" width="6.9042328607734476" height="8.304750813053943" />
+      <text id="165:13" name="YOU ARE HERE" x="669" y="57.1199951171875" width="84.97659120441745" height="27.006570487222234" />
+      <line id="165:45" name="Line 19" x="630.509033203125" y="126.6473388671875" width="25.506051223349573" height="0.10079858287645038" />
+      <line id="165:46" name="Line 20" x="676" y="149.00006103515625" width="0" height="43" />
+      <line id="165:47" name="Line 21" x="678" y="239.74468994140625" width="90.74474488539408" height="0.10123821000161115" />
+    </frame>
+    <text id="176:252" name="Main Campus" x="913" y="234" width="331" height="55" />
+    <rounded-rectangle id="189:501" name="Rectangle 35" x="912" y="27" width="749" height="573" />
+    <frame id="188:27" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="241:304" name="Directory" x="8285" y="7730" width="800" height="1280">
+    <frame id="241:305" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:306" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:310" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:312" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="241:313" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="241:314" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="241:315" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="241:316" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="241:317" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="241:319" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="241:320" name="Rectangle 34" x="923" y="22" width="757" height="587" />
+    <frame id="241:321" name="Group 31" x="858" y="756.0000610351562" width="713.0000610351562" height="506.343017578125">
+      <rounded-rectangle id="241:322" name="main campuss 1" x="858.0000000000005" y="45.26409912109375" width="713.0000386879092" height="506.34302633524294" />
+      <frame id="241:323" name="line-md:circle-twotone" x="638.0001831054688" y="92.96002197265625" width="10.71137400742191" height="10.041998366637927" />
+      <frame id="241:326" name="si:pin-line" x="658.693603515625" y="92.9288330078125" width="11.821647290054898" height="11.08288958940284" />
+      <frame id="241:327" name="Group" x="652.7579498291016" y="94.32568359375" width="6.9042328607738455" height="8.304750813053943" />
+      <text id="241:330" name="YOU ARE HERE" x="669" y="57.1199951171875" width="84.97659120441676" height="27.006570487222234" />
+      <line id="241:331" name="Line 19" x="630.509033203125" y="126.6473388671875" width="25.50605122335037" height="0.10079858287645038" />
+      <line id="241:332" name="Line 20" x="676" y="149.00006103515625" width="0" height="43" />
+      <line id="241:333" name="Line 21" x="678" y="239.74468994140625" width="90.74474488539454" height="0.10123821000161115" />
+    </frame>
+    <text id="241:334" name="Main Campus" x="913" y="234" width="331" height="55" />
+    <rounded-rectangle id="241:335" name="Rectangle 35" x="912" y="27" width="749" height="573" />
+    <frame id="241:336" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="176:291" name="Directory" x="-431" y="5262" width="800" height="1280">
+    <frame id="176:292" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="176:293" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="176:299" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="176:300" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="176:301" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="176:302" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="176:303" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="176:304" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="176:306" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="176:312" name="Rectangle 34" x="923" y="22" width="757" height="587" />
+    <frame id="176:313" name="Group 31" x="858" y="756.0000610351562" width="713.0000610351562" height="506.343017578125">
+      <rounded-rectangle id="176:314" name="main campuss 1" x="858.0000000000005" y="45.26409912109375" width="713.0000386879093" height="506.34302633524294" />
+      <frame id="176:315" name="line-md:circle-twotone" x="638.0001831054688" y="92.96002197265625" width="10.711374007421" height="10.041998366637927" />
+      <frame id="176:318" name="si:pin-line" x="658.693603515625" y="92.9288330078125" width="11.821647290054614" height="11.08288958940284" />
+      <frame id="176:319" name="Group" x="652.758056640625" y="94.3260498046875" width="6.9042328607734476" height="8.304750813053943" />
+      <text id="176:322" name="YOU ARE HERE" x="669" y="57.1199951171875" width="84.97659120441745" height="27.006570487222234" />
+      <line id="176:323" name="Line 19" x="630.509033203125" y="126.6473388671875" width="25.506051223349573" height="0.10079858287645038" />
+      <line id="176:324" name="Line 20" x="676" y="149.00006103515625" width="0" height="43" />
+      <line id="176:325" name="Line 21" x="678" y="239.74468994140625" width="90.74474488539408" height="0.10123821000161115" />
+    </frame>
+    <text id="176:326" name="Main Campus" x="913" y="234" width="331" height="55" />
+    <frame id="188:24" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="189:766" name="Group 31" x="558" y="471" width="348.0000305175781" height="722">
+      <rounded-rectangle id="189:767" name="Rectangle 28" x="1280" y="471" width="336" height="722" />
+      <vector id="189:768" name="Rectangle 30" x="1054" y="471" width="336.9682922363281" height="57.25" />
+      <text id="189:769" name="Main Menu" x="1218" y="553" width="133" height="33" />
+      <text id="189:770" name="FAQs" x="1128.337646484375" y="553.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="189:771" name="Directory" x="1038.947265625" y="553.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="189:772" name="Announcements" x="949.5569458007812" y="553.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="189:773" name="School Calendar" x="860.1666259765625" y="553.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="189:774" name="Submit Inquiry" x="770.7762451171875" y="553.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="189:775" name="Text" x="680.9999389648438" y="548" width="189" height="23" />
+      <rounded-rectangle id="189:776" name="Questions" x="1128.337646484375" y="497.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:777" name="Company" x="1045.97802734375" y="497.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:778" name="Commercial" x="954.578857421875" y="497.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:779" name="Event Accepted" x="865.1885375976562" y="497.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:780" name="Submit Resume" x="775.7982177734375" y="497.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:781" name="Accessibility" x="691.4297485351562" y="552.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="189:782" name="Ai Settings Spark Streamline Core Flat - Free" x="697.4560546875" y="504.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:786" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="497.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:790" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="749.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:792" name="Log out" x="612" y="553" width="104" height="33" />
+      <frame id="189:793" name="Door Exit Streamline Cyber Duotone - Free" x="617" y="504" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="241:338" name="Directory" x="8285" y="6341" width="800" height="1280">
+    <frame id="241:339" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:340" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="241:344" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="241:345" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="241:346" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="241:347" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="241:348" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="241:349" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="241:351" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="241:352" name="Rectangle 34" x="923" y="22" width="757" height="587" />
+    <frame id="241:353" name="Group 31" x="858" y="756.0000610351562" width="713.0000610351562" height="506.343017578125">
+      <rounded-rectangle id="241:354" name="main campuss 1" x="858.0000000000005" y="45.26409912109375" width="713.0000386879092" height="506.34302633524294" />
+      <frame id="241:355" name="line-md:circle-twotone" x="638.0001831054688" y="92.96002197265625" width="10.71137400742191" height="10.041998366637927" />
+      <frame id="241:358" name="si:pin-line" x="658.693603515625" y="92.9288330078125" width="11.821647290054898" height="11.08288958940284" />
+      <frame id="241:359" name="Group" x="652.7579498291016" y="94.32568359375" width="6.9042328607738455" height="8.304750813053943" />
+      <text id="241:362" name="YOU ARE HERE" x="669" y="57.1199951171875" width="84.97659120441676" height="27.006570487222234" />
+      <line id="241:363" name="Line 19" x="630.509033203125" y="126.6473388671875" width="25.50605122335037" height="0.10079858287645038" />
+      <line id="241:364" name="Line 20" x="676" y="149.00006103515625" width="0" height="43" />
+      <line id="241:365" name="Line 21" x="678" y="239.74468994140625" width="90.74474488539454" height="0.10123821000161115" />
+    </frame>
+    <text id="241:366" name="Main Campus" x="913" y="234" width="331" height="55" />
+    <frame id="241:367" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="241:1197" name="Group 31" x="768" y="469" width="349.0000305175781" height="512">
+      <rounded-rectangle id="241:1198" name="Rectangle 28" x="1280" y="470" width="336" height="512" />
+      <vector id="241:1199" name="Rectangle 30" x="1069" y="469" width="336.9682922363281" height="57.25" />
+      <text id="241:1200" name="Main Menu" x="1218" y="552" width="133" height="33" />
+      <text id="241:1201" name="FAQs" x="1128.337646484375" y="552.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="241:1202" name="Directory" x="1056.947265625" y="552.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="241:1203" name="Submit Inquiry" x="993.7763671875" y="552.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <rounded-rectangle id="241:1205" name="Questions" x="1129.337890625" y="496.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1206" name="Company" x="1063.97802734375" y="496.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1207" name="Submit Resume" x="998.79833984375" y="496.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1208" name="Accessibility" x="914.4296875" y="551.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="241:1209" name="Ai Settings Spark Streamline Core Flat - Free" x="920.4560546875" y="503.0947265625" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1213" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="496.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1217" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="748.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1219" name="Log out" x="835" y="552" width="104" height="33" />
+      <frame id="241:1220" name="Door Exit Streamline Cyber Duotone - Free" x="840" y="503" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="176:209" name="Directory" x="501" y="6651" width="800" height="1280">
+    <frame id="176:210" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="176:211" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="176:215" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="176:217" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="176:218" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="176:219" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="176:220" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="176:221" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="176:222" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="176:224" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="176:230" name="Rectangle 34" x="888" y="22" width="757" height="495" />
+    <frame id="176:248" name="Group 34" x="793" y="35" width="729.445556640625" height="353">
+      <rounded-rectangle id="176:246" name="Ground Floor 2 1" x="793.0000062286854" y="35" width="729.445556640625" height="353" />
+      <line id="165:33" name="Line 13" x="449.4827880859375" y="320.5614013671875" width="0" height="81.92760467529297" />
+      <vector id="165:34" name="Line 14" x="531.9377746582031" y="285.5243835449219" width="35.03656768798828" height="0" />
+    </frame>
+    <text id="176:251" name="Ground Floor" x="861" y="234" width="331" height="55" />
+    <frame id="188:48" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="241:405" name="Directory" x="9217" y="7730" width="800" height="1280">
+    <frame id="241:406" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:407" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:412" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:414" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="241:415" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="241:416" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="241:417" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="241:418" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="241:419" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="241:421" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="241:422" name="Rectangle 34" x="888" y="22" width="757" height="495" />
+    <frame id="241:423" name="Group 34" x="793" y="35" width="729.445556640625" height="353">
+      <rounded-rectangle id="241:424" name="Ground Floor 2 1" x="793.0000062286854" y="35" width="729.445556640625" height="353" />
+      <line id="241:425" name="Line 13" x="449.4827880859375" y="320.5614013671875" width="0" height="81.92760467529297" />
+      <vector id="241:426" name="Line 14" x="531.9377746582031" y="285.5243835449219" width="35.03656768798828" height="0" />
+    </frame>
+    <text id="241:427" name="Ground Floor" x="861" y="234" width="331" height="55" />
+    <frame id="241:428" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="176:327" name="Directory" x="501" y="5262" width="800" height="1280">
+    <frame id="176:328" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="176:329" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="176:333" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="176:335" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="176:336" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="176:337" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="176:338" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="176:339" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="176:340" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="176:342" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="176:348" name="Rectangle 34" x="888" y="22" width="757" height="495" />
+    <frame id="176:349" name="Group 34" x="793" y="35" width="729.445556640625" height="353">
+      <rounded-rectangle id="176:350" name="Ground Floor 2 1" x="793.0000062286854" y="35" width="729.445556640625" height="353" />
+      <line id="176:351" name="Line 13" x="449.4827880859375" y="320.5614013671875" width="0" height="81.92760467529297" />
+      <vector id="176:352" name="Line 14" x="531.9377746582031" y="285.5243835449219" width="35.03656768798828" height="0" />
+    </frame>
+    <text id="176:353" name="Ground Floor" x="861" y="234" width="331" height="55" />
+    <frame id="188:51" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="189:802" name="Group 32" x="558" y="465" width="349.0000305175781" height="722">
+      <rounded-rectangle id="189:803" name="Rectangle 28" x="1280" y="466" width="336" height="722" />
+      <vector id="189:804" name="Rectangle 30" x="1053" y="465" width="336.9682922363281" height="57.25" />
+      <text id="189:805" name="Main Menu" x="1218" y="548" width="133" height="33" />
+      <text id="189:806" name="FAQs" x="1128.337646484375" y="548.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="189:807" name="Directory" x="1038.947265625" y="548.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="189:808" name="Announcements" x="949.5569458007812" y="548.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="189:809" name="School Calendar" x="860.1666259765625" y="548.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="189:810" name="Submit Inquiry" x="770.7762451171875" y="548.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="189:811" name="Text" x="680.9999389648438" y="543" width="189" height="23" />
+      <rounded-rectangle id="189:812" name="Questions" x="1128.337646484375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:813" name="Company" x="1045.97802734375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:814" name="Commercial" x="954.578857421875" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:815" name="Event Accepted" x="865.1885375976562" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:816" name="Submit Resume" x="775.7982177734375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:817" name="Accessibility" x="691.4297485351562" y="547.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="189:818" name="Ai Settings Spark Streamline Core Flat - Free" x="697.4560546875" y="499.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:822" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:826" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="744.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:828" name="Log out" x="612" y="548" width="104" height="33" />
+      <frame id="189:829" name="Door Exit Streamline Cyber Duotone - Free" x="617" y="499" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="241:430" name="Directory" x="9217" y="6341" width="800" height="1280">
+    <frame id="241:431" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:432" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:436" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:438" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="241:439" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="241:440" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="241:441" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="241:442" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="241:443" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="241:445" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="241:446" name="Rectangle 34" x="888" y="22" width="757" height="495" />
+    <frame id="241:447" name="Group 34" x="793" y="35" width="729.445556640625" height="353">
+      <rounded-rectangle id="241:448" name="Ground Floor 2 1" x="793.0000062286854" y="35" width="729.445556640625" height="353" />
+      <line id="241:449" name="Line 13" x="449.4827880859375" y="320.5614013671875" width="0" height="81.92760467529297" />
+      <vector id="241:450" name="Line 14" x="531.9377746582031" y="285.5243835449219" width="35.03656768798828" height="0" />
+    </frame>
+    <text id="241:451" name="Ground Floor" x="861" y="234" width="331" height="55" />
+    <frame id="241:452" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="241:1229" name="Group 32" x="768" y="470" width="349.0000305175781" height="512">
+      <rounded-rectangle id="241:1230" name="Rectangle 28" x="1280" y="471" width="336" height="512" />
+      <vector id="241:1231" name="Rectangle 30" x="1068" y="470" width="336.9682922363281" height="57.25" />
+      <text id="241:1232" name="Main Menu" x="1218" y="553" width="133" height="33" />
+      <text id="241:1233" name="FAQs" x="1128.337646484375" y="553.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="241:1234" name="Directory" x="1055.947265625" y="553.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="241:1235" name="Submit Inquiry" x="992.7763671875" y="553.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <rounded-rectangle id="241:1237" name="Questions" x="1128.337646484375" y="497.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1238" name="Company" x="1062.97802734375" y="497.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1239" name="Submit Resume" x="997.79833984375" y="497.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1240" name="Accessibility" x="913.4296875" y="552.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="241:1241" name="Ai Settings Spark Streamline Core Flat - Free" x="919.4560546875" y="504.0947265625" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1245" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="497.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1249" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="749.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1251" name="Log out" x="834" y="553" width="104" height="33" />
+      <frame id="241:1252" name="Door Exit Streamline Cyber Duotone - Free" x="839" y="504" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="176:253" name="Directory" x="1433" y="6651" width="800" height="1280">
+    <frame id="176:254" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="176:255" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="176:259" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="176:261" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="176:262" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="176:263" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="176:264" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="176:265" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="176:266" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="176:268" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="176:274" name="Rectangle 34" x="888" y="22" width="757" height="495" />
+    <text id="176:279" name="Second Floor" x="861" y="234" width="331" height="55" />
+    <frame id="176:249" name="Group 35" x="791" y="37" width="724.9999389648438" height="351.07745361328125">
+      <rounded-rectangle id="176:247" name="Second Floor 2 1" x="791.0000644028187" y="37" width="724.9999389648438" height="351.07745361328125" />
+      <line id="165:39" name="Line 16" x="504.2561950683594" y="315.0782165527344" width="0" height="81.66423797607422" />
+      <line id="165:40" name="Line 17" x="585.9204406738281" y="315.0782165527344" width="221.3599853515625" height="0" />
+      <vector id="165:37" name="Line 15" x="504.2561950683594" y="285.66943359375" width="29.409631729125977" height="0" />
+      <vector id="165:44" name="Line 18" x="546.7932586669922" y="93.45597076416016" width="0" height="39.12882762379468" />
+    </frame>
+    <frame id="176:282" name="si:pin-line" x="509" y="93" width="24" height="24" />
+    <text id="176:284" name="Your Destination is here" x="534" y="65" width="80" height="22" />
+    <text id="176:285" name="REGISTER OFFICE" x="482" y="59" width="88" height="12" />
+    <frame id="188:42" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="241:490" name="Directory" x="10149" y="7730" width="800" height="1280">
+    <frame id="241:491" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:492" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:496" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:498" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="241:499" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="241:500" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="241:501" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="241:502" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="241:503" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="241:505" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="241:506" name="Rectangle 34" x="888" y="22" width="757" height="495" />
+    <text id="241:507" name="Second Floor" x="861" y="234" width="331" height="55" />
+    <frame id="241:508" name="Group 35" x="791" y="37" width="724.9999389648438" height="351.07745361328125">
+      <rounded-rectangle id="241:509" name="Second Floor 2 1" x="791.0000644028187" y="37" width="724.9999389648438" height="351.07745361328125" />
+      <line id="241:510" name="Line 16" x="504.2561950683594" y="315.0782165527344" width="0" height="81.66423797607422" />
+      <line id="241:511" name="Line 17" x="585.9204406738281" y="315.0782165527344" width="221.3599853515625" height="0" />
+      <vector id="241:512" name="Line 15" x="504.2561950683594" y="285.66943359375" width="29.409631729125977" height="0" />
+      <vector id="241:513" name="Line 18" x="546.7932586669922" y="93.45597076416016" width="0" height="39.12882762379468" />
+    </frame>
+    <frame id="241:514" name="si:pin-line" x="509" y="93" width="24" height="24" />
+    <text id="241:516" name="Your Destination is here" x="534" y="65" width="80" height="22" />
+    <text id="241:517" name="REGISTER OFFICE" x="482" y="59" width="88" height="12" />
+    <frame id="241:518" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="176:354" name="Directory" x="1433" y="5262" width="800" height="1280">
+    <frame id="176:355" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="176:356" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="176:362" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="176:363" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="176:364" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="176:365" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="176:366" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="176:367" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="176:369" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="176:375" name="Rectangle 34" x="888" y="22" width="757" height="495" />
+    <text id="176:376" name="Second Floor" x="861" y="234" width="331" height="55" />
+    <frame id="176:377" name="Group 35" x="791" y="37" width="724.9999389648438" height="351.07745361328125">
+      <rounded-rectangle id="176:378" name="Second Floor 2 1" x="791.0000644028187" y="37" width="724.9999389648438" height="351.07745361328125" />
+      <line id="176:379" name="Line 16" x="504.2561950683594" y="315.0782165527344" width="0" height="81.66423797607422" />
+      <line id="176:380" name="Line 17" x="585.9204406738281" y="315.0782165527344" width="221.3599853515625" height="0" />
+      <vector id="176:381" name="Line 15" x="504.2561950683594" y="285.66943359375" width="29.409631729125977" height="0" />
+      <vector id="176:382" name="Line 18" x="546.7932586669922" y="93.45597076416016" width="0" height="39.12882762379468" />
+    </frame>
+    <frame id="176:383" name="si:pin-line" x="509" y="93" width="24" height="24" />
+    <text id="176:385" name="Your Destination is here" x="534" y="65" width="80" height="22" />
+    <text id="176:386" name="REGISTER OFFICE" x="482" y="59" width="88" height="12" />
+    <frame id="188:54" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="189:838" name="Group 35" x="558" y="466" width="348.0000305175781" height="722">
+      <rounded-rectangle id="189:839" name="Rectangle 28" x="1280" y="466" width="336" height="722" />
+      <vector id="189:840" name="Rectangle 30" x="1051" y="466" width="336.9682922363281" height="57.25" />
+      <text id="189:841" name="Main Menu" x="1218" y="548" width="133" height="33" />
+      <text id="189:842" name="FAQs" x="1128.337646484375" y="548.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="189:843" name="Directory" x="1038.947265625" y="548.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="189:844" name="Announcements" x="949.5569458007812" y="548.236328125" width="249.7175750732422" height="51.22368240356445" />
+      <text id="189:845" name="School Calendar" x="860.1666259765625" y="548.236328125" width="249.7175750732422" height="41.17982482910156" />
+      <text id="189:846" name="Submit Inquiry" x="770.7762451171875" y="548.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <text id="189:847" name="Text" x="680.9999389648438" y="543" width="189" height="23" />
+      <rounded-rectangle id="189:848" name="Questions" x="1128.337646484375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:849" name="Company" x="1045.97802734375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:850" name="Commercial" x="954.578857421875" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:851" name="Event Accepted" x="865.1885375976562" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="189:852" name="Submit Resume" x="775.7982177734375" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:853" name="Accessibility" x="691.4297485351562" y="547.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="189:854" name="Ai Settings Spark Streamline Core Flat - Free" x="697.4560546875" y="499.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:858" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="492.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="189:862" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="744.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="189:864" name="Log out" x="612" y="548" width="104" height="33" />
+      <frame id="189:865" name="Door Exit Streamline Cyber Duotone - Free" x="617" y="499" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="241:520" name="Directory" x="10149" y="6341" width="800" height="1280">
+    <frame id="241:521" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:522" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="241:526" name="Directory" x="1136" y="282" width="236" height="48" />
+    <frame id="241:527" name="Group 8" x="987" y="66" width="669" height="73">
+      <rounded-rectangle id="241:528" name="Rectangle 7" x="1060" y="65.99999999999909" width="669" height="73" />
+      <rounded-rectangle id="241:529" name="Rectangle 12" x="1060" y="655.211181640625" width="41.735782623291016" height="73" />
+      <rounded-rectangle id="241:530" name="Rectangle 10" x="1060" y="655.211181640625" width="79.78899383544922" height="73" />
+      <frame id="241:531" name="search" x="1041.75" y="678.5337524414062" width="37.74626922607422" height="35.28333282470703" />
+      <text id="241:533" name="Search" x="1041.75" y="97.91584587097168" width="146.07522583007812" height="30.41666603088379" />
+    </frame>
+    <rounded-rectangle id="241:534" name="Rectangle 34" x="888" y="22" width="757" height="495" />
+    <text id="241:535" name="Second Floor" x="861" y="234" width="331" height="55" />
+    <frame id="241:536" name="Group 35" x="791" y="37" width="724.9999389648438" height="351.07745361328125">
+      <rounded-rectangle id="241:537" name="Second Floor 2 1" x="791.0000644028187" y="37" width="724.9999389648438" height="351.07745361328125" />
+      <line id="241:538" name="Line 16" x="504.2561950683594" y="315.0782165527344" width="0" height="81.66423797607422" />
+      <line id="241:539" name="Line 17" x="585.9204406738281" y="315.0782165527344" width="221.3599853515625" height="0" />
+      <vector id="241:540" name="Line 15" x="504.2561950683594" y="285.66943359375" width="29.409631729125977" height="0" />
+      <vector id="241:541" name="Line 18" x="546.7932586669922" y="93.45597076416016" width="0" height="39.12882762379468" />
+    </frame>
+    <frame id="241:542" name="si:pin-line" x="509" y="93" width="24" height="24" />
+    <text id="241:544" name="Your Destination is here" x="534" y="65" width="80" height="22" />
+    <text id="241:545" name="REGISTER OFFICE" x="482" y="59" width="88" height="12" />
+    <frame id="241:546" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="241:1261" name="Group 33" x="768" y="468" width="349.0000305175781" height="512">
+      <rounded-rectangle id="241:1262" name="Rectangle 28" x="1280" y="469" width="336" height="512" />
+      <vector id="241:1263" name="Rectangle 30" x="1067" y="468" width="336.9682922363281" height="57.25" />
+      <text id="241:1264" name="Main Menu" x="1218" y="551" width="133" height="33" />
+      <text id="241:1265" name="FAQs" x="1128.337646484375" y="551.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="241:1266" name="Directory" x="1054.947265625" y="551.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="241:1267" name="Submit Inquiry" x="991.7763671875" y="551.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <rounded-rectangle id="241:1269" name="Questions" x="1128.337646484375" y="495.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1270" name="Company" x="1061.97802734375" y="495.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1271" name="Submit Resume" x="996.79833984375" y="495.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1272" name="Accessibility" x="912.4296875" y="550.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="241:1273" name="Ai Settings Spark Streamline Core Flat - Free" x="918.4560546875" y="502.0947265625" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1277" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="495.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1281" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="747.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1283" name="Log out" x="833" y="551" width="104" height="33" />
+      <frame id="241:1284" name="Door Exit Streamline Cyber Duotone - Free" x="838" y="502" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="241:77" name="Submit Inquiry" x="9722" y="4677" width="800" height="1280">
+    <frame id="241:78" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:79" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:82" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:84" name="Submit Inquiry" x="1136" y="284" width="296" height="45" />
+    <frame id="241:85" name="Group 14" x="364" y="65" width="670" height="595">
+      <rounded-rectangle id="241:86" name="Rectangle 6" x="959" y="65" width="670" height="595" />
+      <rounded-rectangle id="241:87" name="Rectangle 7" x="899" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:88" name="Rectangle 8" x="792" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:89" name="Rectangle 9" x="685" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:90" name="yellow" x="578" y="312" width="175" height="67" />
+      <rounded-rectangle id="241:91" name="Rectangle 10" x="578" y="312" width="175" height="67" />
+      <text id="241:92" name="Fullname" x="882" y="150" width="119" height="25" />
+      <text id="241:93" name="Contact Info" x="669" y="150" width="226" height="25" />
+      <text id="241:94" name="Concern" x="776" y="150" width="119" height="25" />
+      <text id="241:95" name="SUBMIT" x="557" y="346" width="107" height="24" />
+      <text id="241:96" name="Once submitted, your request will be processed by the admin." x="482" y="143" width="512" height="55" />
+    </frame>
+    <frame id="241:97" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+  </frame>
+  <frame id="241:99" name="Submit Inquiry" x="10562" y="4677" width="800" height="1280">
+    <frame id="241:100" name="Frame 9" x="880" y="160" width="480" height="480" />
+    <frame id="241:101" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:104" name="fa6-solid:bars" x="1230" y="707" width="55" height="62" />
+    <text id="241:105" name="Submit Inquiry" x="1136" y="284" width="296" height="45" />
+    <frame id="241:106" name="Group 14" x="364" y="65" width="670" height="595">
+      <rounded-rectangle id="241:107" name="Rectangle 6" x="959" y="65" width="670" height="595" />
+      <rounded-rectangle id="241:108" name="Rectangle 7" x="899" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:109" name="Rectangle 8" x="792" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:110" name="Rectangle 9" x="685" y="128" width="545" height="60" />
+      <rounded-rectangle id="241:111" name="yellow" x="578" y="312" width="175" height="67" />
+      <rounded-rectangle id="241:112" name="Rectangle 10" x="578" y="312" width="175" height="67" />
+      <text id="241:113" name="Fullname" x="882" y="150" width="119" height="25" />
+      <text id="241:114" name="Contact Info" x="669" y="150" width="226" height="25" />
+      <text id="241:115" name="Concern" x="776" y="150" width="119" height="25" />
+      <text id="241:116" name="SUBMIT" x="557" y="346" width="107" height="24" />
+      <text id="241:117" name="Once submitted, your request will be processed by the admin." x="482" y="143" width="512" height="55" />
+    </frame>
+    <frame id="241:118" name="material-symbols:arrow-back-ios-rounded" x="1240" y="22" width="81" height="81" />
+    <frame id="241:1357" name="Group 31" x="768" y="469" width="349.0000305175781" height="512">
+      <rounded-rectangle id="241:1358" name="Rectangle 28" x="1280" y="470" width="336" height="512" />
+      <vector id="241:1359" name="Rectangle 30" x="998" y="469" width="336.9682922363281" height="57.25" />
+      <text id="241:1360" name="Main Menu" x="1218" y="552" width="133" height="33" />
+      <text id="241:1361" name="FAQs" x="1128.337646484375" y="552.236328125" width="189.54466247558594" height="51.22368240356445" />
+      <text id="241:1362" name="Directory" x="1049.947265625" y="552.236328125" width="265.7637023925781" height="59.25877380371094" />
+      <text id="241:1363" name="Submit Inquiry" x="986.7763671875" y="552.236328125" width="236.68011474609375" height="46.20175552368164" />
+      <rounded-rectangle id="241:1365" name="Questions" x="1128.337646484375" y="496.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1366" name="Company" x="1056.97802734375" y="496.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <rounded-rectangle id="241:1367" name="Submit Resume" x="991.79833984375" y="496.0751953125" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1368" name="Accessibility" x="907.4296875" y="551.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="241:1369" name="Ai Settings Spark Streamline Core Flat - Free" x="913.4560546875" y="503.0947265625" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1373" name="Home 2 Streamline Flex Flat - Free" x="1224.7587890625" y="496.074951171875" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:1377" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="748.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:1379" name="Log out" x="828" y="552" width="104" height="33" />
+      <frame id="241:1380" name="Door Exit Streamline Cyber Duotone - Free" x="833" y="503" width="40" height="40" />
+    </frame>
+  </frame>
+  <rounded-rectangle id="168:52" name="image 2" x="13158" y="13728" width="890" height="1157" hidden="true" />
+  <frame id="30:78" name="Menu Screen" x="389" y="2211" width="800" height="1280">
+    <frame id="30:87" name="Frame 9" x="1262" y="10" width="126" height="126" />
+    <frame id="30:80" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="34:18" name="fa6-solid:bars" x="1230" y="707" width="54.25" height="62" />
+    <text id="30:90" name="Main Menu" x="1040" y="292" width="216" height="52" />
+    <frame id="30:91" name="yellow1" x="824" y="71" width="209" height="135">
+      <rounded-rectangle id="30:92" name="Questions" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="30:93" name="Frame 10" x="824" y="71" width="209" height="135">
+      <rounded-rectangle id="30:94" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="30:95" name="yellow4" x="601" y="183" width="209" height="136">
+      <rounded-rectangle id="30:96" name="Event Accepted" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="30:97" name="Frame 11" x="601" y="183" width="209" height="136">
+      <rounded-rectangle id="30:98" name="Event Accepted" x="70" y="20" width="70" height="96" />
+    </frame>
+    <frame id="30:99" name="yellow5" x="601" y="407" width="210" height="136">
+      <rounded-rectangle id="30:100" name="Submit Resume" x="102" y="52" width="96" height="96" />
+    </frame>
+    <frame id="30:101" name="Frame 12" x="601" y="407" width="210" height="136">
+      <rounded-rectangle id="30:102" name="Submit Resume" x="70" y="20" width="70" height="96" />
+    </frame>
+    <frame id="30:103" name="yello2" x="824" y="295" width="210" height="135">
+      <rounded-rectangle id="30:104" name="Company" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="30:105" name="Frame 13" x="824" y="295" width="210" height="135">
+      <rounded-rectangle id="30:106" name="Company" x="70" y="35" width="70" height="65" />
+    </frame>
+    <frame id="30:107" name="yellow3" x="824" y="520" width="210" height="135">
+      <rounded-rectangle id="30:108" name="Commercial" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="30:109" name="Frame 14" x="824" y="520" width="210" height="135">
+      <rounded-rectangle id="30:110" name="Commercial" x="70" y="20" width="70" height="96" />
+    </frame>
+    <text id="30:115" name="FAQs" x="684" y="143" width="65" height="29" />
+    <text id="30:116" name="Directory" x="684" y="342" width="115" height="29" />
+    <text id="30:117" name="Announcements" x="684" y="523" width="204" height="29" />
+    <text id="30:118" name="School Calendar" x="462" y="192" width="205" height="42" />
+    <text id="30:119" name="Submit Inquiry" x="465" y="430" width="180" height="30" />
+    <text id="185:2" name="KiosKonnekt" x="1223" y="150" width="251" height="47" />
+  </frame>
+  <frame id="335:76" name="Menu Screen" x="-178" y="-1030" width="800" height="1280" hidden="true">
+    <frame id="335:77" name="Frame 9" x="1262" y="10" width="126" height="126" />
+    <frame id="335:78" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="335:107" name="KiosKonnekt" x="1223" y="150" width="251" height="47" />
+    <frame id="335:79" name="fa6-solid:bars" x="1230" y="707" width="54.25" height="62" />
+    <text id="335:81" name="TRANSACTION" x="1040" y="241" width="318" height="85" />
+    <frame id="335:82" name="yellow1" x="839" y="165" width="209" height="135" />
+    <frame id="335:84" name="Frame 10" x="839" y="165" width="209" height="135">
+      <rounded-rectangle id="335:85" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="335:109" name="Frame 11" x="839" y="165" width="209" height="135">
+      <rounded-rectangle id="335:110" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <text id="335:102" name="Academic Records" x="688" y="190" width="188" height="28" />
+    <frame id="336:2" name="yellow1" x="839" y="451" width="209" height="135" />
+    <frame id="336:3" name="Frame 12" x="839" y="451" width="209" height="135">
+      <rounded-rectangle id="336:4" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="336:5" name="Frame 13" x="839" y="451" width="209" height="135">
+      <rounded-rectangle id="336:6" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <text id="336:7" name="Enrollment &amp; Registration" x="688" y="451" width="263" height="30" />
+    <frame id="336:9" name="yellow1" x="608" y="446" width="209" height="135" />
+    <frame id="336:10" name="Frame 14" x="608" y="446" width="209" height="135">
+      <rounded-rectangle id="336:11" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="336:12" name="Frame 15" x="608" y="446" width="209" height="135">
+      <rounded-rectangle id="336:13" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <text id="336:14" name="Certificates &amp; Certifications" x="460" y="438" width="354" height="37" />
+    <frame id="336:16" name="yellow1" x="372" y="447" width="209" height="135" />
+    <frame id="336:17" name="Frame 16" x="372" y="447" width="209" height="135">
+      <rounded-rectangle id="336:18" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="336:19" name="Frame 17" x="372" y="447" width="209" height="135">
+      <rounded-rectangle id="336:20" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <text id="336:21" name="Others" x="222" y="525" width="92" height="31" />
+    <frame id="336:23" name="yellow1" x="608" y="165" width="209" height="135" />
+    <frame id="336:24" name="Frame 18" x="608" y="165" width="209" height="135">
+      <rounded-rectangle id="336:25" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="336:26" name="Frame 19" x="608" y="165" width="209" height="135">
+      <rounded-rectangle id="336:27" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <text id="336:28" name="Student Information Updates" x="461" y="113" width="291" height="31" />
+    <frame id="336:30" name="yellow1" x="372" y="165" width="209" height="135" />
+    <frame id="336:31" name="Frame 20" x="372" y="165" width="209" height="135">
+      <rounded-rectangle id="336:32" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="336:33" name="Frame 21" x="372" y="165" width="209" height="135">
+      <rounded-rectangle id="336:34" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <text id="336:35" name="Graduation-related Transactions" x="219" y="110" width="328" height="24" />
+  </frame>
+  <frame id="241:2" name="Menu Screen" x="7353" y="4677" width="800" height="1280">
+    <frame id="241:3" name="Frame 9" x="1262" y="10" width="126" height="126" />
+    <frame id="241:4" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="241:5" name="fa6-solid:bars" x="1230" y="707" width="54.25" height="62" />
+    <text id="241:7" name="Main Menu" x="1040" y="292" width="216" height="52" />
+    <frame id="241:8" name="yellow1" x="824" y="71" width="209" height="135">
+      <rounded-rectangle id="241:9" name="Questions" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="241:10" name="Frame 10" x="824" y="71" width="209" height="135">
+      <rounded-rectangle id="241:11" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="241:16" name="yellow5" x="821" y="524" width="210" height="136">
+      <rounded-rectangle id="241:17" name="Submit Resume" x="102" y="52" width="96" height="96" />
+    </frame>
+    <frame id="241:18" name="Frame 12" x="821" y="524" width="210" height="136">
+      <rounded-rectangle id="241:19" name="Submit Resume" x="70" y="20" width="70" height="96" />
+    </frame>
+    <frame id="241:20" name="yello2" x="824" y="295" width="210" height="135">
+      <rounded-rectangle id="241:21" name="Company" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="241:22" name="Frame 13" x="824" y="295" width="210" height="135">
+      <rounded-rectangle id="241:23" name="Company" x="70" y="35" width="70" height="65" />
+    </frame>
+    <text id="241:28" name="FAQs" x="684" y="143" width="65" height="29" />
+    <text id="241:29" name="Directory" x="684" y="342" width="115" height="29" />
+    <text id="241:32" name="Submit Inquiry" x="685" y="547" width="180" height="30" />
+    <text id="241:33" name="KiosKonnekt" x="1223" y="150" width="251" height="47" />
+  </frame>
+  <frame id="241:35" name="Menu Screen" x="8193" y="4677" width="800" height="1280">
+    <frame id="241:36" name="Frame 9" x="1262" y="10" width="126" height="126" />
+    <frame id="241:37" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="241:40" name="Main Menu" x="1040" y="292" width="216" height="52" />
+    <frame id="241:41" name="yellow1" x="824" y="71" width="209" height="135">
+      <rounded-rectangle id="241:42" name="Questions" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="241:43" name="Frame 10" x="824" y="71" width="209" height="135">
+      <rounded-rectangle id="241:44" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="241:45" name="yellow5" x="821" y="524" width="210" height="136">
+      <rounded-rectangle id="241:46" name="Submit Resume" x="102" y="52" width="96" height="96" />
+    </frame>
+    <frame id="241:47" name="Frame 12" x="821" y="524" width="210" height="136">
+      <rounded-rectangle id="241:48" name="Submit Resume" x="70" y="20" width="70" height="96" />
+    </frame>
+    <frame id="241:49" name="yello2" x="824" y="295" width="210" height="135">
+      <rounded-rectangle id="241:50" name="Company" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="241:51" name="Frame 13" x="824" y="295" width="210" height="135">
+      <rounded-rectangle id="241:52" name="Company" x="70" y="35" width="70" height="65" />
+    </frame>
+    <text id="241:53" name="FAQs" x="684" y="143" width="65" height="29" />
+    <text id="241:54" name="Directory" x="684" y="342" width="115" height="29" />
+    <text id="241:55" name="Submit Inquiry" x="685" y="547" width="180" height="30" />
+    <text id="241:56" name="KiosKonnekt" x="1223" y="150" width="251" height="47" />
+    <frame id="241:57" name="Group 19" x="658" y="464" width="336" height="622">
+      <rounded-rectangle id="241:58" name="Rectangle 28" x="1280" y="464" width="336" height="228" />
+      <text id="241:59" name="Text" x="680.9999389648438" y="541" width="189" height="23" />
+      <text id="241:60" name="Accessibility" x="1198.9736328125" y="558.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="241:61" name="Ai Settings Spark Streamline Core Flat - Free" x="1205" y="510.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="241:65" name="X Circle Streamline Heroicons Outline" x="1272.96923828125" y="742.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="241:67" name="Log out" x="1119.5439453125" y="559" width="104" height="33" />
+      <frame id="241:68" name="Door Exit Streamline Cyber Duotone - Free" x="1124.5439453125" y="510" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="186:4" name="Menu Screen" x="1229" y="2211" width="800" height="1280">
+    <frame id="186:5" name="Frame 9" x="1262" y="10" width="126" height="126" />
+    <frame id="186:6" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <text id="186:9" name="Main Menu" x="1040" y="292" width="217" height="52" />
+    <frame id="186:10" name="yellow1" x="824" y="71" width="209" height="135">
+      <rounded-rectangle id="186:11" name="Questions" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="186:12" name="Frame 10" x="824" y="71" width="209" height="135">
+      <rounded-rectangle id="186:13" name="Questions" x="70" y="32" width="70" height="71" />
+    </frame>
+    <frame id="186:14" name="yellow4" x="601" y="183" width="209" height="136">
+      <rounded-rectangle id="186:15" name="Event Accepted" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="186:16" name="Frame 11" x="601" y="183" width="209" height="136">
+      <rounded-rectangle id="186:17" name="Event Accepted" x="70" y="20" width="70" height="96" />
+    </frame>
+    <frame id="186:18" name="yellow5" x="601" y="407" width="210" height="136">
+      <rounded-rectangle id="186:19" name="Submit Resume" x="102" y="52" width="96" height="96" />
+    </frame>
+    <frame id="186:20" name="Frame 12" x="601" y="407" width="210" height="136">
+      <rounded-rectangle id="186:21" name="Submit Resume" x="70" y="20" width="70" height="96" />
+    </frame>
+    <frame id="186:22" name="yello2" x="824" y="295" width="210" height="135">
+      <rounded-rectangle id="186:23" name="Company" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="186:24" name="Frame 13" x="824" y="295" width="210" height="135">
+      <rounded-rectangle id="186:25" name="Company" x="70" y="35" width="70" height="65" />
+    </frame>
+    <frame id="186:26" name="yellow3" x="824" y="520" width="210" height="135">
+      <rounded-rectangle id="186:27" name="Commercial" x="57" y="20" width="96" height="96" />
+    </frame>
+    <frame id="186:28" name="Frame 14" x="824" y="520" width="210" height="135">
+      <rounded-rectangle id="186:29" name="Commercial" x="70" y="20" width="70" height="96" />
+    </frame>
+    <text id="186:30" name="FAQs" x="684" y="143" width="65" height="29" />
+    <text id="186:31" name="Directory" x="684" y="342" width="115" height="29" />
+    <text id="186:32" name="Announcements" x="684" y="523" width="204" height="29" />
+    <text id="186:33" name="School Calendar" x="462" y="192" width="205" height="42" />
+    <text id="186:34" name="Submit Inquiry" x="465" y="430" width="180" height="30" />
+    <text id="186:35" name="KiosKonnekt" x="1223" y="150" width="251" height="47" />
+    <frame id="186:37" name="Group 18" x="659" y="466" width="336" height="622">
+      <rounded-rectangle id="186:38" name="Rectangle 28" x="1281" y="466" width="336" height="228" />
+      <text id="186:46" name="Text" x="681.9999389648438" y="543" width="189" height="23" />
+      <text id="186:52" name="Accessibility" x="1199.9736328125" y="560.2333984375" width="236.68011474609375" height="46.20175552368164" />
+      <frame id="186:53" name="Ai Settings Spark Streamline Core Flat - Free" x="1206" y="512.0950927734375" width="40.115272521972656" height="40.175437927246094" />
+      <frame id="186:61" name="X Circle Streamline Heroicons Outline" x="1273.96923828125" y="744.8011474609375" width="40.115272521972656" height="40.175437927246094" />
+      <text id="186:63" name="Log out" x="1120.5439453125" y="561" width="104" height="33" />
+      <frame id="186:64" name="Door Exit Streamline Cyber Duotone - Free" x="1125.5439453125" y="512" width="40" height="40" />
+    </frame>
+  </frame>
+  <frame id="30:59" name="Login" x="-451" y="2211" width="800" height="1280">
+    <frame id="30:60" name="Frame 2" x="1236" y="279" width="242" height="242" />
+    <frame id="30:61" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="30:62" name="Group 2" x="316" y="214" width="371" height="73">
+      <rounded-rectangle id="30:63" name="Rounded rectangle" x="316" y="214" width="371" height="73" />
+      <rounded-rectangle id="30:64" name="Rounded rectangle" x="316" y="214" width="371" height="73" />
+      <text id="30:65" name="Explore Servies" x="297" y="278" width="258" height="35" />
+    </frame>
+    <text id="30:66" name="KiosKonnekt" x="981" y="274" width="251" height="47" />
+    <text id="30:67" name="“Your all-in-one campus information kiosk”" x="909" y="89" width="621" height="36" />
+    <rounded-rectangle id="30:68" name="Rectangle 8" x="825" y="83" width="633" height="621" />
+    <text id="30:69" name="Welcome to PLV (Main Campus)" x="790" y="190" width="407" height="98" />
+    <rounded-rectangle id="30:70" name="yellow" x="421" y="304" width="179" height="74" />
+    <rounded-rectangle id="30:71" name="Rectangle 9" x="421" y="304" width="179" height="74" />
+    <text id="30:72" name="LOGIN" x="397" y="353" width="82" height="26" />
+    <rounded-rectangle id="30:73" name="Rectangle 10" x="658" y="144" width="479" height="67" />
+    <rounded-rectangle id="30:74" name="Rectangle 11" x="541" y="144" width="479" height="67" />
+    <text id="30:75" name="Enter School ID No." x="639" y="164" width="253" height="27" />
+    <text id="30:76" name="BIRTHDAY mm/dd/yyyy" x="521" y="164" width="308" height="27" />
+    <text id="30:77" name="Continue as guest" x="339" y="306" width="177" height="27" />
+  </frame>
+  <rounded-rectangle id="165:31" name="image 3" x="11307" y="10245" width="3702" height="2018" hidden="true" />
+  <frame id="29:46" name="Home Screen" x="-1291" y="2211" width="800" height="1280">
+    <frame id="30:56" name="Frame 2" x="1236" y="279" width="242" height="242" />
+    <frame id="30:47" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="30:52" name="Group 2" x="316" y="214" width="371" height="73">
+      <rounded-rectangle id="30:53" name="Rounded rectangle" x="316" y="214" width="371" height="73" />
+      <rounded-rectangle id="30:54" name="Rounded rectangle" x="316" y="214" width="371" height="73" />
+      <text id="30:55" name="Explore Servies" x="297" y="278" width="258" height="35" />
+    </frame>
+    <text id="30:57" name="KiosKonnekt" x="981" y="274" width="251" height="47" />
+    <text id="30:58" name="“Your all-in-one campus information kiosk”" x="909" y="89" width="621" height="36" />
+  </frame>
+  <frame id="335:2" name="Registrar" x="-1166" y="-1100" width="800" height="1280" hidden="true">
+    <frame id="335:3" name="Frame 2" x="1236" y="279" width="242" height="242" />
+    <frame id="335:4" name="plv background" x="1280" y="0" width="800" height="1280" />
+    <frame id="335:5" name="Group 2" x="316" y="214" width="371" height="73">
+      <rounded-rectangle id="335:6" name="Rounded rectangle" x="316" y="214" width="371" height="73" />
+      <rounded-rectangle id="335:7" name="Rounded rectangle" x="316" y="214" width="371" height="73" />
+      <text id="335:8" name="Explore Servies" x="297" y="278" width="258" height="35" />
+    </frame>
+    <text id="335:9" name="KiosKonnekt" x="981" y="274" width="251" height="47" />
+    <text id="335:10" name="“Your all-in-one campus information kiosk”" x="909" y="89" width="621" height="36" />
+  </frame>
+</canvas>
+
+### Content Block 2 (Text)
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.
+
+</mcp_external_output>
